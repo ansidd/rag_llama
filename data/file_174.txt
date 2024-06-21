@@ -1,0 +1,36 @@
+
+Single cell RNA sequencing in R&D
+News
+Media library
+Scientific media resources
+Single cell RNA sequencing in R&D
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+The
+Translational Medicine
+team at Bristol Myers Squibb utilizes innovative technologies to gather and analyze the most accurate, comprehensive data in disease biology, in the shortest time possible. As one example, Bristol Myers Squibb researchers have deep expertise using single cell RNA sequencing (scRNASeq), which provides a deeper understanding of disease biology and helps inform precision medicine strategies.
+What is single cell RNA sequencing?
+scRNASeq combines biology and genomics to examine each individual cell within a tissue sample, enabling researchers to analyze each cell’s distinct gene expression patterns and better understand how different cells contribute to disease progression and clinical responses. In contrast to traditional profiling technologies which average gene expression across all cells in a tissue sample, scRNASeq is allowing researchers to shift from bulk tissue averages to individualized cellular expression data.
+Watch to see how researchers are leveraging technologies like single cell RNA sequencing in cancer research.
+Bristol Myers Squibb’s R&D organization is driving scRNASeq forward in clinical programs and therapeutic areas of focus in order to:
+Provide a high-resolution cellular map of disease biology
+Identify and develop novel biomarkers
+Uncover disease mechanisms of action and help inform treatment strategies
+For example, cancer researchers today primarily use scRNASeq in labs on pre-clinical samples, such as cells in culture or mouse models. The team at Bristol Myers Squibb is pioneering ways to apply technologies like scRNASeq to clinical samples such as tumor tissues from core biopsies, which may ultimately enable researchers to unlock deep insights and make them accessible for patients at a faster rate.
+Related content
+Translational medicine
+At Bristol Myers Squibb, the hundreds of world-class researchers that make up the Translational Medicine team strive to uncover life-changing treatments for some of the most challenging diseases facing patients now and in the future.
+Learn more >
+Hacking R&D: The role of artificial intelligence
+At Bristol Myers Squibb, researchers already use AI to process and analyze massive amounts of data significantly faster and with more accuracy than ever before.
+Read more >
+Digital pathology: Beyond what the eye can see
+Through digital pathology, biomedical researchers are using a multitude of technologies to see a complete view of disease biology and implement new insights in clinical trials to help identify the right treatments, for the right patients, at the right time.
+Download Icon
+Learn more >
+
+January 10, 2024
+© 2024
+Bristol-Myers Squibb Company

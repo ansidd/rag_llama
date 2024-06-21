@@ -1,0 +1,39 @@
+
+Jonathan Steuve, clinical protocol manager at Bristol Myers Squibb Belgium
+Our stories
+/
+News & Perspectives
+Clinical Trials
+Going global: Designing clinical trials for patients across the world
+July 01, 2019
+Coordinating global clinical trials is a massive endeavor that requires effective coordination, communication and integration. We sat down with Jonathan Steuve, clinical protocol manager at Bristol Myers Squibb’s Belgium R&D site to learn more about the nuances behind international clinical trials.
+Clinical trials occur in a number of steps, called phases. Each phase serves to investigate a specific set of criteria for an investigational therapy. Clinical studies are typically classified into four phases:
+Phase 1:  Researchers test an experimental agent for the first time in humans by giving it to a small number (20-80) of healthy volunteers/patients to evaluate how the agent works in humans and identify side effects.
+Phase 2:  Researchers administer the therapeutic agent to a larger number of people (100-300) who have a particular disease or condition to further evaluate the side effects and whether the therapy works as a treatment for a specific disease.
+Phase 3:  Several hundred to several thousand people with the disease or condition participate in these studies. The experimental therapeutic agent undergoes additional testing to further evaluate the side effects, efficacy, dosing and how it compares to current standard treatments.
+Phase 4:  Clinical trials in this phase are conducted after the therapy is approved and available by prescription. Researchers are looking to understand the best way to use this treatment and whether there are any other risks or benefits associated with use.
+Q: What is a clinical trial? What are the different types of clinical trials?
+Clinical trials are research studies investigating how an experimental drug might act in the body and affect a disease.
+Q: What are the steps involved in activating clinical trials?
+The first step involves designing the concept of the study. That typically starts about a year before a study begins. Key stakeholders, including medical monitors, statisticians and biomarker, program and operation leads, all come together during the design process. They agree to the study’s target population, primary objectives, endpoints and eligibility criteria.
+Once these components are approved, a wider study team initiates the full protocol development and starts the additional planning needed to ensure the patient journey and study process run smoothly. This can include fulfilling drug supply, trial site selection, clinical data, sample and imaging collection and analysis, compiling the regulatory submission dossiers, determining the flow of patient information and planning trial procedure adherence training.
+Once the protocol is final and site selection is confirmed, the submission to regulatory authorities in each participating country can start. Active enrollment begins in each individual country after the trial receives approval from the respective regulatory authorities. This usually happens on a rolling basis after all the logistics associated with the execution of the study protocol are agreed to and established. The study’s course is also monitored by ethics committees and internal review boards, in order to ensure patient safety and ethical study conduct.
+Q: What are some of the main differences between single-country clinical trials and global programs? What types of clinical trials are conducted in a global setting?
+Treatment insights from global clinical trials better represent the worldwide population affected by a disease. Typically, larger Phase 3 trials are conducted across multiple countries in order to confirm the safety and efficacy of the investigational treatment compared to currently available therapies. Additionally, clinical trials conducted in a global setting give researchers the opportunity to target rare diseases, and therefore, rare patient populations, in a reasonable timeframe that may be difficult to assess in single- or fewer-country trials.
+Q: How do you determine which markets are selected for a particular clinical trial?
+Selecting specific clinical trial sites varies depending on the clinical program. There are countries that have been identified as mandatory markets in order to match the global strategy for a particular indication. Other countries that are not listed as mandatory are approached for selection in order to achieve the total number of patients and patient types needed in the time defined for completing the enrollment.
+Q: What are some of the challenges that arise in designing and launching global clinical trials?
+There are two main factors to ensure global clinical trials run smoothly: communication and risk detection and mitigation.
+Communication with study stakeholders is key, as they must be made aware of the status and timeline of the study goals in order to perform their tasks on time. We also remain in constant communication with stakeholders to assess and mitigate potential risks that could impact a study, in order to ensure adherence to study timelines and guarantee investigational products are available and safely administered. Finally, it is critical to manage the documentation of the study so that the entire study history is transparent to authorities.
+While global clinical trials are often complex, we see it as a worthwhile commitment to design and launch innovative programs to help address serious unmet needs for the broadest swath of patients.
+At Bristol Myers Squibb, we’re committed to our patients and working to provide them with potential treatment options. We are currently recruiting trials across areas including cancer, liver disease, arthritis heart failure and more.
+Learn more about currently enrolling clinical trials
+here .
+related articles
+How BMS is closing the diversity gap in clinical trials >
+Celebrating women in STEM: Latin America's changing landscape >
+The future of diversity in clinical trials >
+
+September 14, 2023
+© 2024
+Bristol-Myers Squibb Company

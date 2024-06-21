@@ -1,0 +1,33 @@
+
+Our stories
+/
+Science
+Cancer Research
+Identifying new ways to help red blood cells mature in Myelodysplastic Syndromes
+April 02, 2020
+In patients with  myelodysplastic syndromes  (MDS), a group of cancers in which the bone marrow does not make enough healthy blood cells, red blood cells may not mature and function properly. As a result, about 85 percent of patients with MDS develop anemia. Since roughly half of patients do not respond to current therapies aimed at increasing red blood cell production, many end up relying on frequent transfusions to treat the symptoms associated with anemia.
+In this Q&A, Sandra Kurtin, Ph.D., ANP-C, AOCN, University of Arizona Cancer Center discusses ongoing research to uncover why red blood cells don’t mature properly in MDS and how targeting different stages of their maturation may lead to much-needed new therapeutic options.
+Why has developing effective therapies for MDS been challenging?
+MDS is complicated. It’s been difficult to pinpoint a single pathway or target that overcomes the abnormalities inherent in MDS. For instance, the tumor microenvironment, the cells in the bone marrow that provide growth factors and other cells essential to cellular growth, may play a role. Most current therapies target cancer cells but may not effectively target the microenvironment. Additionally, molecular abnormalities and abnormalities in the spliceosome are known to contribute to the pathobiology of MDS. Today, the only potential cure is a stem cell transplant, but many patients may not be eligible for one.
+Why is a stem cell transplant not an option for most patients?
+While some patients may not warrant immediate treatment, the only way to overcome the abnormalities of MDS is to replace the genetic profile through an allogeneic bone marrow transplant. Transplantation is typically considered for patients with higher-risk MDS.  This is a very complicated treatment process that is associated with substantial risk.  As a result, patients must have good organ function and be fit enough to undergo this treatment. Most centers have an age limit of 65-70, with a few centers allowing transplants up to the age of 75. The median age of diagnosis for MDS patients is 76, so the majority of patients with MDS do not meet this criterion.
+What other treatment strategies are being explored for MDS?
+Treatment for lower-risk MDS is aimed at improving cytopenias, including anemia and reducing the need for transfusions. Meanwhile, the primary treatment goal for higher-risk MDS is to extend survival.
+Doctors use treatments such as erythropoietin to stimulate the red blood cell production in some patients with lower-risk MDS, though an unmet medical need remains in patients that do not respond or do not maintain a response to supportive treatment.
+“
+Now we’re coming to realize that transcription factors and other molecular attributes also regulate the production of these cells.
+— Sandra Kurtin
+”
+How are researchers working to understand the biological mechanisms that lead to MDS?
+Pathologists are still exploring the ‘normal’ process by which blood stem cells commit and differentiate to form all the different types of blood cells within the bone marrow. We used to think that the process was primarily driven by growth factors. Now we’re coming to realize that transcription factors and other molecular attributes also regulate the production of these cells.
+What are the most important unanswered questions in MDS research?
+We’re trying to understand why MDS is such a heterogeneous disease. Why do some patients have a slow-growing disease while others have a more aggressive malignancy? What are the pathways and targets, such as mutations or transcriptional factors that contribute to this heterogeneity?  And finally, in these abnormalities, do any of the attribute’s actionable targets have the potential for therapeutic benefit?
+Some of the new therapies under investigation are aimed at novel targets. These include combination regimens using different classes of drugs, and some new single-agent therapies that may be combined with other treatments in the future. Therapies approved for acute myeloid leukemia, which can evolve from MDS, are also being explored as potential treatments for MDS. All to say, there is finally a lot of exciting research in the field after all these years.
+related articles
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+February 24, 2021
+© 2024
+Bristol-Myers Squibb Company

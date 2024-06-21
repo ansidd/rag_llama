@@ -1,0 +1,71 @@
+
+Inflation reduction act
+8/29/2023
+BMS statement on selection of ELIQUIS ®
+(apixaban) for inflation reduction act’s medicare “Negotiation” program
+Today, the U.S. Department of Health and Human Services released a list of the medicines that have been selected for the first round of so-called “negotiation” as part of the Inflation Reduction Act. BMS has one medicine on the list – ELIQUIS ® (apixaban) – which was widely expected given it is among the highest government expenditures in the Medicare program.
+ELIQUIS was targeted for this program due to the sheer number of Medicare patients who benefit from the medicine, not its price. The selection of ELIQUIS underscores that it is an important treatment option for Medicare patients with atrial fibrillation (AFib), not caused by a heart valve problem, who rely on the medicine to reduce the risk of stroke and blood clots, as well to treat blood clots in the legs or lungs and reduce the risk of them recurring in patients with deep vein thrombosis (DVT) and pulmonary embolism (PE). Since it was first approved in 2012, it has been used by more than 11 million Americans. Effective treatment to reduce the risk of stroke is an important benefit to patients and the health care system where stroke-related care commonly leads to hospitalization and extended rehabilitation needs.
+Medicare patients who are prescribed ELIQUIS are currently able to get it with relatively low out-of-pocket costs at an average of $55 per month. This reality is at risk, as the government has not required that insurance companies make selected medicines available in the future without burdensome cost sharing or hurdles to access.
+We remain driven by our commitment to patients and will continue to advocate for an environment that supports patient access and future innovation.
+ELIQUIS important safety information
+Indications
+ELIQUIS is indicated to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.
+ELIQUIS is indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery.
+ELIQUIS is indicated for the treatment of DVT and PE, and to reduce the risk of recurrent DVT and PE following initial therapy.
+Important safety information
+WARNING: (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS, (B) SPINAL/EPIDURAL HEMATOMA
+A. Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events. If anticoagulation with ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant.
+B. Epidural or spinal hematomas may occur in patients treated with ELIQUIS who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:
+use of indwelling epidural catheters
+concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
+a history of traumatic or repeated epidural or spinal punctures
+a history of spinal deformity or spinal surgery
+optimal timing between the administration of ELIQUIS and neuraxial procedures is not known
+Monitor patients frequently for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary.
+Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated.
+CONTRAINDICATIONS
+Active pathological bleeding
+Severe hypersensitivity reaction to ELIQUIS (e.g., anaphylactic reactions)
+WARNINGS AND PRECAUTION
+Increased Risk of Thrombotic Events after Premature Discontinuation: Premature discontinuation of any oral anticoagulant, including ELIQUIS, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in atrial fibrillation patients. If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant.
+Bleeding Risk:  ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding.
+Concomitant use of drugs affecting hemostasis increases the risk of bleeding, including aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, SSRIs, SNRIs, and NSAIDs.
+Advise patients of signs and symptoms of blood loss and to report them immediately or go to an emergency room. Discontinue ELIQUIS in patients with active pathological hemorrhage.
+The anticoagulant effect of apixaban can be expected to persist for at least 24 hours after the last dose (i.e., about two half-lives). An agent to reverse the anti-factor Xa activity of apixaban is available. Please visit www.andexxa.com for more information on the availability of a reversal agent.
+Spinal/Epidural Anesthesia or Puncture:  Patients treated with ELIQUIS undergoing spinal/epidural anesthesia or puncture may develop an epidural or spinal hematoma which can result in long-term or permanent paralysis.
+The risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis. Indwelling epidural or intrathecal catheters should not be removed earlier than 24 hours after the last administration of ELIQUIS. The next dose of ELIQUIS should not be administered earlier than 5 hours after the removal of the catheter. The risk may also be increased by traumatic or repeated epidural or spinal puncture. If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.
+Monitor patients frequently and if neurological compromise is noted, urgent diagnosis and treatment is necessary. Physicians should consider the potential benefit versus the risk of neuraxial intervention in ELIQUIS patients.
+Prosthetic Heart Valves : The safety and efficacy of ELIQUIS have not been studied in patients with prosthetic heart valves and is not recommended in these patients.
+Acute PE in Hemodynamically Unstable Patients or Patients who Require Thrombolysis or Pulmonary Embolectomy:
+Initiation of ELIQUIS is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with PE who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
+Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome (APS):
+Direct-acting oral anticoagulants (DOACs), including ELIQUIS, are not recommended for use in patients with triple-positive APS. For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti–beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+ADVERSE REACTIONS
+The most common and most serious adverse reactions reported with ELIQUIS were related to bleeding.
+TEMPORARY INTERRUPTION FOR SURGERY AND OTHER INTERVENTIONS
+ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding. ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be noncritical in location and easily controlled. Bridging anticoagulation during the 24 to 48 hours after stopping ELIQUIS and prior to the intervention is not generally required. ELIQUIS should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established.
+DRUG INTERACTIONS
+Combined P-gp and Strong CYP3A4 Inhibitors:
+Inhibitors of P-glycoprotein (P-gp) and cytochrome P450 3A4 (CYP3A4) increase exposure to apixaban and increase the risk of bleeding. For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose of ELIQUIS by 50% when ELIQUIS is coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, or ritonavir). In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with combined P-gp and strong CYP3A4 inhibitors.
+Clarithromycin
+Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS.
+Combined P-gp and Strong CYP3A4 Inducers: Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban.
+Anticoagulants and Antiplatelet Agents: Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo.
+PREGNANCY
+The limited available data on ELIQUIS use in pregnant women are insufficient to inform drug-associated risks of major birth defects, miscarriage, or adverse developmental outcomes. Treatment may increase the risk of bleeding during pregnancy and delivery, and in the fetus and neonate.
+Labor or delivery: ELIQUIS use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas.
+Consider use of a shorter acting anticoagulant as delivery approaches.
+LACTATION
+Breastfeeding is not recommended during treatment with ELIQUIS.
+FEMALES AND MALES OF REPRODUCTIVE POTENTIAL
+Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician. The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including ELIQUIS should be assessed in these patients and those with abnormal uterine bleeding.
+Please see
+U.S. FULL PRESCRIBING INFORMATION , including
+Boxed WARNINGS , and
+Medication Guide .
+Bristol Myers Squibb cautionary statement regarding forward-looking statements
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 regarding, among other things, the research, development and commercialization of pharmaceutical products. All statements that are not statements of historical facts are, or may be deemed to be, forward-looking statements. Such forward-looking statements are based on current expectations and projections about our future financial results, goals, plans and objectives and involve inherent risks, assumptions and uncertainties, including internal or external factors that could delay, divert or change any of them in the next several years, that are difficult to predict, may be beyond our control and could cause our future financial results, goals, plans and objectives to differ materially from those expressed in, or implied by, the statements. No forward-looking statement can be guaranteed. Forward-looking statements in this press release should be evaluated together with the many risks and uncertainties that affect Bristol Myers Squibb’s business and market, particularly those identified in the cautionary statement and risk factors discussion in Bristol Myers Squibb’s Annual Report on Form 10-K for the year ended December 31, 2022, as updated by our subsequent Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other filings with the Securities and Exchange Commission. The forward-looking statements included in this document are made only as of the date of this document and except as otherwise required by applicable law, Bristol Myers Squibb undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise.
+
+January 07, 2024
+© 2024
+Bristol-Myers Squibb Company

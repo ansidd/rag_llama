@@ -1,0 +1,66 @@
+
+Scientific media resources
+Understanding the CAR T cell therapy treatment experience
+Some CAR T cell therapies are FDA approved, but many are still being studied in clinical trials.
+Chimeric antigen receptor (CAR) T cell therapy is a personalized approach to treating certain blood  cancers. Unlike traditional cancer therapies, autologous CAR T cell therapies are often administered as a one-time treatment made from a patient's own cells. These cells are “reprogrammed” during a sophisticated manufacturing process to help the T cells recognize and fight specific target cells, including some normal and cancer cells.
+Patients and caregivers are provided education and support by their care team to prepare for treatment and potential side effects.
+When a patient with a blood cancer or disorder has experienced disease relapse, meaning their cancer has progressed, or is no longer responding to previous therapies (refractory), their doctor may recommend the use of CAR T cell therapy, if they meet eligibility criteria. Given as a one-time infusion, this type of therapy may help control a patient's disease and improve outcomes. Once a patient’s eligibility is confirmed and the patient and doctor decide to move forward with a CAR T cell therapy, the process of creating the therapy from the patient’s T cells begins.
+Step 1:
+T Cell Collection
+T cells, which are a type of white blood cell that function as key fighters in the immune system, are removed through a process called apheresis or leukapheresis, which takes several hours. During the T cell collection, blood is withdrawn and T cells are separated from other blood components. The remaining blood is then infused back into the patient.
+Step 2:
+T Cell Activation During Manufacturing
+The collected T cells are shipped to a specialized cell therapy manufacturing facility where they undergo genetic “reprogramming” to become CAR T cells. These cells have receptors (or hooks) added to the T cells to help recognize and fight target cells containing a specific antigen on the surface of the cell, including normal and cancer cells. The CAR T cells are then multiplied to create the recommended dose consisting of millions of CAR T cells, which then undergo rigorous testing and quality control before being shipped back to the patient at a CAR T cell treatment center. The manufacturing process can take several weeks to complete.
+Step 3:
+Preparing for Treatment
+A few days before receiving their CAR T cell therapy, patients receive a short course of chemotherapy, known as lymphodepleting chemotherapy, to help prepare the body to receive the reprogrammed CAR T cells. This helps to create space in the patient’ immune system to accept the CAR T cells.
+Step 4:
+CAR T Cell Therapy Infusion
+At the treatment center, patients receive their personalized CAR T cells in one infusion. The process usually takes about an hour. From there, the CAR T cells may expand and travel throughout the body to attack the target cells.
+Step 5:
+Monitoring
+All patients who receive a CAR T cell therapy are monitored closely by their care team for possible side effects, which may be severe, life-threatening or fatal. Time at the CAR T cell treatment center will vary based on the individual patient. Patients need to stay in close proximity to the treatment center for at least four weeks, but may return home when their doctor says it is safe to do so. If side effects develop after returning home, they may need to return to the hospital. A patient’s caregiver will also play a critical role in helping monitor the patient for potential side effects.
+Step 6:
+Continued Follow Up
+The patient’s care team will continue to follow up with the patient via phone calls and in-person appointments to assess whether the CAR T cell therapy is working and to watch for side effects. Patients will see their doctor for ongoing follow-up after treatment, though the frequency of follow-ups may vary and are determined by the doctor.
+Select Side Effects of CAR T Cell Therapy
+CAR T cell therapies are still being studied in clinical trials. Safety information for these therapies is still evolving.
+The side effects of CAR T cell therapy will vary from person to person, and can be mild, moderate, severe, or may even cause death. Patients should always speak to their doctor about any side effects they may experience.
+There are many side effects associated with CAR T cell therapy.
+Two of the potential serious side effects patients need to be aware of include:
+Cytokine Release  Syndrome (CRS)
+Cytokine Release Syndrome is a systemic inflammatory response that can  happen in the first few days to several weeks after a patient’s CAR T cells are infused into their body.
+Symptoms may include, but are not limited to:
+Fever (pyrexia)
+Fatigue
+Nausea
+Chills
+Low blood pressure (hypotension)
+Headache
+Rapid heartbeat (tachycardia)
+Muscle/joint pain (myalgia/arthralgia)
+Weakness (asthenia)
+Low oxygen level (hypoxia)
+Breathing diffculty (dyspnea)
+Confusion
+Neurotoxicity (NT)
+Neurotoxicity can cause adverse functional or structural change in the nervous system. It can happen in the first few days to several weeks after a patient’s CAR T cells are infused into their body.
+Symptoms may include, but are not limited to:
+Confusion
+Difficulty or inability to speak
+Difficulty staying awake
+Loss of coordination
+Difficulty walking
+Shaking
+Seizures
+Headache
+These are not all of the side effects associated with CAR T cell therapies, and the side effects are different from product to product. Patients should talk to their doctor to understand the side effects for specific CAR T cell therapies.
+Learn more
+here
+about how CAR T cell therapy works. Consult with a physician to see if CAR T cell therapy is right for you.
+© 2024 Bristol Myers Squibb. All rights reserved. 3/24. HE-US-2300682
+Download Understanding the CAR T cell therapy treatment experience Fact Sheet
+
+June 05, 2024
+© 2024
+Bristol-Myers Squibb Company

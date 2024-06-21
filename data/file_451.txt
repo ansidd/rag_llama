@@ -1,0 +1,29 @@
+
+Our stories
+/
+Science
+Cancer Research
+Exploring new aspects of tumor biology & possible composite biomarker approach to precision medicine
+March 24, 2019
+When it comes to the future of cancer care, Bristol Myers Squibb’s goal is to create tailored, individualized treatment strategies that will offer the greatest possible patient benefit.
+To make that future a reality, Bristol Myers Squibb has hundreds of world-class Translational Medicine researchers who are exploring new aspects of tumor and immune biology and working to understand how discoveries may impact each individual patient. This knowledge offers new insights into how tumors grow in the body and important clues that may help determine if cancer will respond to treatment.
+What is Translational Medicine?
+Integrating scientific understanding into portfolio decision making enables and expedites the discovery and development of new medicines for patients. This interdisciplinary research approach is called translational medicine (TM).
+Gaining New Insight Through Emerging Technologies
+The deep interrogation of cancer biology requires use of sophisticated, proven and emerging technologies to gather and analyze the most accurate, comprehensive data on disease biology in the shortest time possible.
+For example, researchers are using gene expression profiling (GEP) to look at tumor inflammation gene signatures as potential biomarkers. GEP requires the analysis of thousands of genes to identify those that are over or under expressed in certain cancers. Through partnerships, Bristol Myers Squibb is leveraging Next Generation Sequencing to develop gene expression profiles for immuno-oncology assets studied across a variety of cancers.
+“Fundamentally, we know that the biology of each tumor is different, and those biological differences can be associated with different outcomes,” says Joe Szustakowski, Ph.D., executive director and head of translational bioinformatics at Bristol Myers Squibb. “Through GEP, we’re retrospectively analyzing biological correlates of response and developing tumor inflammation gene signatures that may help us identify patient populations that are more likely to respond to immuno-oncology treatment.” As these insights mature, in the future they may be studied prospectively, with the goal of eventually being used to guide treatment decisions.
+An Integrated Approach
+As an early leader in oncology, Bristol Myers Squibb has an expansive clinical research program. This means that translational researchers have access to rich, large-scale biomarker data sets from hundreds of clinical studies to analyze and develop inflammation gene signatures across tumor types.
+“We’re really in a unique position when it comes to the sheer volume of data, but also in the way that we’re organized as a function to share information seamlessly across our integrated Translational Medicine team,” adds Szustakowski.
+For example, building on their work identifying tumor inflammation gene signatures, Bristol Myers Squibb translational researchers are also trying to understand if the location of specific inflammation markers in the microenvironment – gleaned through image analysis (IA) – can offer additional insights into the immune status of certain tumors. The combination of GEP-IA may also help researchers understand how a tumor changes when it becomes resistant to treatment, helping to inform potential new targets.
+Shaping the Future in Real Time
+Thanks in part to advances like GEP and IA, Bristol Myers Squibb researchers know more about disease biology than ever before and are continuing to explore potential biomarkers in real time. Yet this knowledge represents just a fraction of the insights left to uncover as they work to improve the speed and success of drug development and make precision medicine a reality for more patients with cancer.
+“Eventually, we believe that a composite biomarker approach will really serve as a roadmap for selecting the best treatment for each patient, determined by assessing the unique profile of both the cancer and immune system, and how that changes over time after treatment is initiated," says Sarah Hersey, vice president, Precision Medicine. “Each discovery about cancer biology is a clue, and it’s up to our translational team to unravel the science and make sense of how all these insights can be applied to make a meaningful difference for each individual patient.”
+related articles
+Hacking R&D: The Role of Artificial Intelligence  >
+Leading the I-O Resistance >
+
+November 17, 2021
+© 2024
+Bristol-Myers Squibb Company

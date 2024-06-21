@@ -1,0 +1,50 @@
+
+Bristol Myers Squibb is one of nine pharma companies that make up the UK Biobank-Exome Sequencing Consortium (UKB-ESC).
+News & Perspectives
+UK Biobank consortiums unveil groundbreaking insights into human health and disease
+Bristol Myers Squibb is part of a consortium under the UK Biobank, which has released invaluable genetic sequencing data to the medical community that can aid in drug discovery and improve patient lives
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+June 27, 2021
+Our stories
+/
+News & Perspectives
+For U.S. Audiences
+Article updated October 5, 2023
+The scientific community now has access to results from one of the largest proteomic studies to date, resulting from de-identified protein expression and genetic association and sequencing data in the  UK Biobank  (UKB). The UK Biobank is a large-scale biomedical database and research resource, containing in-depth genetic and health information from half a million UK participants. Bristol Myers Squibb is one of 13 biopharma companies that sponsored the UKB Pharma Proteomics Project (UKB-PPP), a pre-competitive consortium that measured levels of ~ 3,000 plasma proteins in ~54,000 UKB participants.
+Findings from the UKB-PPP were recently published in the journal
+Nature
+and provide insight into human health and disease, including coverage on cardiometabolic, inflammation, neurology and oncology panels.
+The study constructs an updated
+"genetic atlas"
+of the plasma proteome, reveals novel biological insights into prevalent illnesses and provides the scientific community with an open-access, population-scale proteomics resource. They mapped proteins to their genetic associations (pQTL mapping), 85% of which were newly discovered associations.
+This indispensable protein expression and genetic data enables research into the association between genetic variation and circulating protein levels, which in turn, will help to understand the links between genetics and human disease and support innovative drug development.
+Similarly, through the UK Biobank-Exome Sequencing Consortium (UKB-ESC), DNA sequencing data has been linked to existing genetic and lifestyle data within the database, enabling researchers to produce new health insights to aid the discovery of new treatments. Previously featured in  Nature Genetics,  the UKB-ESC published an analysis of the initial data and its potential value in drug development.
+Nature Reviews Genetics
+has also featured a research highlight on this work in a previous publication. The final data set, published in July 2022, is available to approved researchers through the cloud-based UKB Research and Analysis Platform.
+“Without the 500,000 participants who generously volunteered to take part in the UK Biobank – none of this would be possible,” said Joe Szustakowski, vice president, Translational Bioinformatics, Informatics and Predictive Sciences. “The research they helped catalyze will enable the scientific community to better understand the underlying mechanisms of diseases, to identify and prosecute novel drug targets, and to generate testable hypotheses about which patients are most likely to benefit from certain treatments.”
+“
+“These are critical steps in our efforts to address unmet medical needs and improve human health.”
+This research empowers the scientific community to make significant advancements in developing novel treatment options by better informing the underlying mechanisms of diseases in different patient populations, with the goal of understanding which patients are most likely to benefit from certain treatments to improve access to tailored therapeutic options.
+“One of our top priorities is to identify novel drug targets. If a gene is associated with a disease or other phenotype of interest, that suggests its protein product is a potential drug target,” Szustakowski said. “We also use these data to characterize and prioritize targets. This allows us to predict the potential biological consequences of drugging a specific target. These approaches will help more deeply investigate our portfolio and address unmet medical needs.”
+“The new protein profiling data is a major enhancement to the UKB resource,” he added. “Proteins are functional molecules that perform the majority of biological tasks at the cellular level. The UKB-PPP data will enable the scientific community to connect the dots between genetic information, environmental factors, and human health and disease.”
+The breadth of data across participants from different ancestral, demographic and phenotypic backgrounds underscores the importance of involving diverse groups in all facets of clinical research to inform the future of drug development and discovery.
+“These datasets serve as the foundation for generating insights in the drug discovery process, and our path-breaking research teams will use them to enable new discoveries and advancements,” said Szustakowski. “Bristol Myers Squibb’s ‘precision discovery’ approach focuses on causal biology, identified by applying predictive analytics to biomedical data resources, to help build drug development programs that are faster, more targeted and barrier breaking, ultimately bringing new treatments to patients in need.”
+Read the full article, “Plasma proteomic associations with genetics and health in the UK Biobank,” from Nature
+here .
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Research and Development
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+January 31, 2024
+© 2024
+Bristol-Myers Squibb Company

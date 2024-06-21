@@ -1,0 +1,36 @@
+
+Our stories
+/
+Science
+Cancer Research
+7 billion base pairs and counting: A Q&A with Joe Szustakowski
+March 27, 2018
+Joe Szustakowski, Vice President, Translational Medicine Bioinformatics at Bristol Myers Squibb, loves solving complex problems, so it’s no surprise that he was drawn to the emerging and rapidly evolving science in oncology.
+Joe Szustakowski, Vice President, Translational Medicine Bioinformatics
+Recently, Szustakowski sat down to discuss the role that bioinformatics and translational medicine have played in identifying potential predictive biomarkers that may help select patients for oncology therapy.
+Question: What can you tell us about translational medicine bioinformatics and its role in cancer research?
+Translational medicine bioinformatics
+is an interdisciplinary field consisting of biology, computer science, statistics and engineering which allows us to analyze large, raw data sets – including genomic data – and distill them into useful biological signals, or biomarkers. Once identified, these biomarkers can provide us with information on a patient’s specific tumor biology, as well as how they might respond to treatment.
+The emergence of new therapies, Next Generation Sequencing technologies and advanced bioinformatics methods have made it an exciting time to be in cancer research. When I was first starting out in bioinformatics 20 years ago, the Human Genome Project was in full swing but not yet complete. We didn’t quite know back then how we would use that information, but as a field, we knew that it would be important to unlocking insights about many different diseases, including cancer. Now, all of our tools and technologies have matured to the point where we can expand our knowledge of the disease and identify potential new biomarkers.
+Translational bioinformatics
+is an interdisciplinary field which uses biology, computer science, statistics and engineering to analyze large, raw data sets and distill them into useful biological signals.
+Question: How have new technologies played a role in advancing biomarker research?
+In order to study biomarkers, we often have to sift through massive amounts of raw genomics data in order to identify correlations between patterns of biological signals and responses to certain therapies.
+For instance, in order to calculate one type of biomarker known as tumor mutational burden (TMB), we start by taking consented samples from both the patient’s tumor and blood. Then, we identify genetic mutations in their tumor DNA, and subtract out inherited genetic variants we find in their germline DNA. This is no simple task. The human genome is approximately three billion letters (or base pairs) long, and in a typical experiment we generate seven or eight billion base pairs of raw sequencing data.
+Thankfully, the emergence of new technologies like Whole Exome Sequencing and cloud computing have helped us to characterize consented samples from patients with a level of precision and reproducibility that was unimaginable five years ago. We’ve gone from being able to sequence a single gene, to analyzing 20,000 genes in a matter of days, which has allowed us to rapidly accelerate the process of identifying biomarkers.
+Whole Exome Sequencing
+refers to a DNA sequencing technique that analyzes all the protein coding-genes in a genome.
+Question: Why is it important to identify new biomarkers?
+There is no single biomarker that will tell us everything we need to know about a patient’s specific tumor biology, or a certain tumor type. In order to devise the most effective treatment approaches for as many patients as possible, we will need a host of biomarkers in our repertoire so we can better understand patients’ tumors and immune systems. This in turn will help inform how we can work with the immune system to fight cancer.
+For example, we’ve learned that cancer can’t be treated as one disease. It’s really a family of different diseases defined by a variety of biomarkers that tell us what’s going on in the tumor microenvironment and the patient’s genome. Understanding as much as we can about the cancer at a molecular level will help us determine personalized treatment approaches based on disease biology.
+Question: What’s next for biomarker and bioinformatics research at Bristol Myers Squibb?
+As mentioned above, we are continuing to identify emerging biomarkers that may offer predictive insights into the tumor, but we are also using our advanced bioinformatics capabilities to look for specific patterns of mutations and genes that may help turn biomarkers into clinical diagnostics and inform the selection of therapies for patients. Additionally, our Translational Medicine Bioinformatics team is also working to design more effective clinical trials, which can help us accelerate drug discovery and development and advance novel mechanisms at a faster rate.
+But if there’s one thing we’ve learned, it’s that the future of oncology research will require a number of different approaches in order to bring precision medicine to as many patients as possible. By integrating insights from our distinctive translational team, we will be able to quickly translate new information from the lab to help identify the right treatment for the right patients at the right time.
+related articles
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+May 13, 2021
+© 2024
+Bristol-Myers Squibb Company

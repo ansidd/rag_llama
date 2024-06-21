@@ -1,0 +1,35 @@
+
+This figure represents the full-length receptor CD47 embedded in the cell membrane, composed of a lipid bilayer and the exposed extracellular (outer) portion of the protein receptor, which is recognized by the immune system.
+Science
+Pulling back the curtain on CD47
+Bristol Myers Squibb research reveals the atomic structure of the protein receptor CD47, which helps protect cells from being gobbled up by the human immune system
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+December 07, 2021
+Our stories
+/
+Science
+CD47, a target of growing interest for drug discovery, is a membrane protein receptor that most cells in the human body express as a sort of protective cloak against the immune system. The immune system will bypass a healthy cell expressing CD47, which sends a signaling response referred to as the “don’t eat me” signal. Cancer cells, however, have mischievously caught on and found a way to hijack CD47 to avoid detection by the immune system.
+A study  authored by a group of Bristol Myers Squibb researchers and published in Nature Communications reveals the crystal structure of the entire CD47 receptor and details critical structural information about it. The data provide insights into CD47’s molecular mechanisms underlaying the “don’t eat me” signal and help inform a promising approach for drug development.
+Tumor cells overexpress this CD47 molecule on the surface of the cell, with the aim that they will evade the immune system, ultimately allowing them to thrive.
+One of the approaches to this problem is to block the interaction, or the binding, between CD47 and a co-receptor of the immune system known as SIRPα (pronounced SIRP-alpha). Blocking this CD47/SIRPα signaling pathway could reinstate the anti-tumor potential of the immune system. Bristol Myers Squibb currently has two molecules being studied on this pathway in clinical trials.
+Understanding the structure of CD47 helps scientists study more deeply how CD47 and SIRPα interact, thereby opening new doors or new approaches, and to reassess how to target this receptor. CD47 is a type of membrane protein — the lipidic membrane is what divides the interior and exterior of the cell, and bridges the signal from inside the cell to the exterior and vice-versa. Membrane receptors such as CD47 enable the cell to take the signals from outside to tell the interior of the cell what needs to be done.
+There are a number of different classes of membrane proteins, determined by the number of times a receptor traverses the membrane. Researchers working collaboratively across Bristol Myers Squibb discovered the atomic structure of CD47 and how each of the passes interact with each other within the membrane, the only one of its kind with five passes through the membrane, also called transmembrane passes.
+The biopharmaceutical industry has been paying particular attention for nearly a decade to targeting CD47 for cancer immunotherapies, but until now the structure of the full length of CD47, and how two domains (the extracellular and the transmembrane domain) are connected was unknown. This knowledge can help scientists better understand the receptor and advance the field of immunotherapy.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Immunotherapy ,
+Research and Development
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+One woman's account of living with ulcerative colitis >
+Doing R&D "differently" to transform treatment for serious diseases >
+
+September 28, 2023
+© 2024
+Bristol-Myers Squibb Company

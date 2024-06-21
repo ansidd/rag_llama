@@ -1,0 +1,30 @@
+
+Our stories
+/
+Science
+Research and Development
+Identifying the optimal chemical reaction
+New machine-learning tool co-created by Bristol Myers Squibb scientists speeds up answers for optimizing chemical reactions
+March 04, 2021
+Conducting chemical reactions in the most efficient way is a basic challenge in the science of drug development. Finding the optimal process for a chemical reaction can unlock a potentially life-saving medicine’s ability to reach patients, impacting the speed and expense of its development, its viability for commercial manufacture, the environmental impact of production, and even its cost in the market to patients and payers.
+Recently, chemists and data scientists at Bristol Myers Squibb and Princeton University presented a paper detailing their creation of an artificial intelligence tool that greatly reduces the time and effort in finding the optimal conditions for a given reaction.
+Identifying chemical reactions: the challenge of choice
+“When chemists are trying to develop a chemical reaction, they have a problem of choice. They have too many variables to choose from and it would be practically impossible to try every combination,” said Jacob Janey, scientific director in Chemical Process Development, in the company’s Global Product Development & Supply organization. “What we have achieved with this tool is how to navigate that space efficiently and find the best conditions – this needle in a haystack – when you may have hundreds and thousands of conditions to choose from.”
+Writing in the journal Nature, Janey and lead Bristol Myers Squibb author Jason Stevens, senior principal scientist, Chemical Process Development; Jun Li, associate scientific director in Chemical Process Development; and their Princeton co-authors (Abigail Doyle, Ryan P. Adams, Benjamin Shields, et al.) describe how they used a machine-learning method called Bayesian optimization to create open-source software for identifying the optimal chemical reaction conditions for a given set of reactants.
+A chemical reaction condition search engine
+The tool works a bit like a search and recommendation engine, similar to how Amazon serves up choices based on a customer’s search and shopping history. In this case, the software looks at data from a chemist’s initial experiments to optimize a certain reaction and suggests what experiments to run next, leading ultimately to the best route.
+To test the tool’s effectiveness, the study authors created a game in which expert chemists competed against the software to optimize a particular chemical reaction. While the chemists made better initial choices, the computer consistently won in reaching the optimum conditions in subsequent rounds of experiments.
+Time savings predicted
+Janey estimates the tool has the potential to significantly reduce the number of experiments chemists run to optimize a chemical reaction – by as much as 85% in some cases. For example, from a pool of 180,000 possible reaction configurations for a complex catalytic reaction, the tool found the optimal conditions in four rounds of 10 experiments, which represents testing just < 0.02% of the total possibilities. Without the software, this same reaction would have likely required multiple rounds of 96 plate-based reactions (the number of wells in a standard screening plate) to identify these conditions.
+“It’s all about speed,” he said. “The faster we can get to those optimal conditions, the faster we can come up with a really robust, sustainable manufacturing route and speed drugs to patients.”
+Just as intriguing, the tool can optimize many complex problems with multiple input variables and mixed data types, making it potentially useful in optimizing other scientific challenges in the work of innovative drug discovery and development.
+To learn more, read the Nature paper, “ Bayesian reaction optimization as a tool for chemical synthesis ,” as well as a related article explaining the study, “ Machine learning made easy for optimizing chemical reactions. ”
+This research was supported by funding from Bristol Myers Squibb, the Princeton Catalysis Initiative, the National Science Foundation under the CCI Center for Computer Assisted Synthesis (CHE-1925607), and the DataX Program at Princeton University through support from the Schmidt Futures Foundation.
+related content
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+April 14, 2024
+© 2024
+Bristol-Myers Squibb Company

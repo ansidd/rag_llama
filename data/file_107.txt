@@ -1,0 +1,25 @@
+
+Data sharing request process
+Researchers
+Independent research
+Data sharing request process
+The in-scope proposals are sent to an
+Independent Review Committee (IRC)
+to review and provide the final decision on the requests. Bristol Myers Squibb has established a relationship with Duke University through the
+Duke Clinical Research Institute (DCRI)
+to act as that IRC. The IRC ensures that qualifying requests for patient-level data have a complete, consistent and fair assessment. They also review the proposal with the research team and discuss any clarifying questions that would better support the decision on the proposal. The IRC membership represents three broadly defined areas of expertise: clinical, statistical and bioethical/protection of human subjects. They also contract with additional experts depending on the request, therapeutic area, or other relevant factors.
+DCRI will evaluate the proposal based on:
+Scientific rationale and methodology
+Experience and relevant qualifications of the research team
+Presence of a robust statistical analysis plan
+Publication plan
+No potential conflicts of interest exist. If conflicts of interest are present, there is a plan to address them.
+Prior to data being released, the researcher(s) will be expected to sign the Vivli Data Use Agreement.
+Upon execution of an agreement, the de-identified and/or anonymized data sets will be available within the Vivli Research environment.
+Read our
+Disclosure Commitment .
+Submit data request
+
+January 08, 2024
+© 2024
+Bristol-Myers Squibb Company

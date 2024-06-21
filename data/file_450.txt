@@ -1,0 +1,45 @@
+
+Science
+Hacking R&D: The role of artificial intelligence
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+January 07, 2019
+Our stories
+/
+Science
+What was once a trope in science fiction movies is becoming a reality, as artificial intelligence (AI) and machine learning technologies are becoming more sophisticated and ingrained in society. Scientists see the potential and are asking if AI can also disrupt biomedical research.
+At Bristol Myers Squibb, researchers already use AI to process and analyze massive amounts of data significantly faster and with more accuracy than ever before. Teams use these technologies to evaluate a wide breadth of data coming from genomics, proteomics, pathology and imaging, and identifying novel biomarkers to help understand mechanisms of action and predict treatment response.
+Insights gained through AI can potentially help researchers better understand new therapeutic targets and more rapidly identify viable drug candidates. Additionally, AI may reduce the time and costs associated with drug development and answer key translational questions.
+What’s the difference between AI and machine learning?
+AI refers to the broader science of training machines to exhibit human-like intelligence. Machine learning is a specific approach to AI, which uses algorithms to help computers recognize patterns and make predictions.
+Pathology, for example, is one area where Bristol Myers Squibb is investing in AI-based technology to enhance traditional models of research.
+A Much more detailed view
+“By using AI to analyze digitized pathology slides, we get a much more detailed view of the complexity of the interaction between the immune system and cancer,” says Mike Montalto, vice president of pathology and clinical biomarker laboratories at Bristol Myers Squibb.
+Traditional pathology relies on a trained pathologist to identify key characteristics of disease biology by looking through a microscope. Through digital pathology, - Montalto says, we can do so much more, including quantifying biomarkers in the tumor microenvironment, better visualizing the infiltration of immune cells in the context of stroma or tumor, seeing specific cell to cell interactions, and even characterizing tumors as ‘hot’ or ‘cold’.
+“As precision medicines become available to more patients, this level of specificity will play an important role in determining the appropriate treatment based on biology,” he adds.
+While AI has the potential to transform drug development and bring us closer to precision medicine for more patients, Bristol Myers Squibb researchers caution that we’re just at the beginning of realizing the full potential of the technology.
+What can AI do for Medicine?
+“There’s been a lot of talk about what AI could theoretically do for medicine, which is really exciting, but expectations are very high. Consider the self-driving car. We understand that they can work, but we have a long way to go before we’re all commuting in autonomous vehicles,” says Joe Szustakowski, executive director of translational bioinformatics at Bristol Myers Squibb.
+Discovering and developing a new drug is much more difficult than driving a car. It requires solving many interconnected problems across biology, chemistry, translational and clinical research.
+"Current AI approaches have led to significant breakthroughs in solving several of those obstacles, but are not ready to solve many others." he says. "We need to embrace the challenges and the excitement.”
+Bristol Myers Squibb researchers take a measured approach to AI, starting with focused questions, curating significant data sets and emphasizing the need for interdisciplinary expertise. Ultimately, AI is just one of many tools researchers at the company use to uncover more about biology and medicine.
+Deep learning
+is a type of machine learning using massive, labeled data sets to build pattern recognition or prediction algorithms. Where ‘traditional’ machine learning techniques require human assistance to identify informative features to make these predictions, deep learning approaches discern them directly from the data.
+"Machine learning and AI are applied increasingly across all stages of Research & Early Development at BMS," said Matthew Trotter, vice president, Predictive Sciences. "We have exceptional laboratory, clinical and computational researchers collaborating around the world to bring transformational new medicines to life for patients who need them- leveraging groundbreaking datasets and deeply scientific approaches to generate predictive insights."
+"The potential is great and we’re just getting started."
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Research and Development
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+January 22, 2024
+© 2024
+Bristol-Myers Squibb Company

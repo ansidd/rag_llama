@@ -1,0 +1,35 @@
+
+Digital accessibility
+About us
+Global Inclusion & Diversity (GI&D)
+Digital accessibility
+Our commitment to digital accessibility
+We want everyone, including individuals with disabilities, to have full and equal access to our content and resources.
+Bristol Myers Squibb is dedicated to ensuring that everyone can access our digital content. In order to inform, serve and engage our patients and communities, we must build websites, applications and digital documents that are equally usable by individuals with disabilities.
+Accessibility is centered around recognizing that people may use the same digital spaces in different ways. Striving to make our content accessible means that we are making efforts to make it usable by people with disabilities that impact the ways they use the web, including with any assistive technology they may use.
+Striving to meet or exceed industry standards
+At Bristol Myers Squibb, we aim to meet the Web Content Accessibility Guidelines (WCAG) 2.1 AA as our target accessibility conformance standard.
+The Web Content Accessibility Guidelines (WCAG) are the most common and most accepted digital accessibility standards globally. We believe that WCAG 2.1 AA provides us the best framework for creating inclusive digital experiences.
+Supporting our Principles of Integrity
+At Bristol Myers Squibb, our values and principles guide every decision we make, including our commitment to digital accessibility. The Principles of Integrity embody our high standards and ethical behavior, and they provide a framework for how we interact with our colleagues, patients, customers, shareholders and global community.
+Learn more about
+our principles
+>
+Putting our patients first
+Our commitment to digital accessibility and inclusion requires action. Here are some of the ways we are working to improve equal access:
+People.
+We have established a Digital Accessibility team with strong knowledge and experience in building and maintaining accessible content.
+Technology.
+We are investing in industry-leading software and solutions to help us improve and monitor accessibility at scale.
+Training.
+We are training design, development and content teams on how to build experiences that are accessible by design.
+Controls.
+We are implementing changes and checkpoints in key business areas, such as procedures and monitoring.
+Contact and feedback
+We welcome your feedback and input to help us improve the accessibility of our content and resources. Please
+contact us
+if you have any questions.
+
+June 05, 2024
+© 2024
+Bristol-Myers Squibb Company

@@ -1,0 +1,60 @@
+
+News & Perspectives
+Consumer wearable technology advancements may support AFib detection
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+April 15, 2022
+Our stories
+/
+News & Perspectives
+The following is intended for healthcare providers:
+The prevalence of atrial fibrillation (AFib), the most common type of irregular heartbeat, 1,2  is projected to increase in the U.S. from ~9 million cases in 2022 to ~12.1 million cases in 2030 as the population ages. 3,4
+Many undiagnosed patients are asymptomatic or can have paroxysmal AFib, a type of AFib where symptoms occur in episodes and then may return to normal on their own. Patients might not recognize that their symptoms could be associated with AFib, allowing the condition to go undetected. 5,6
+If AFib goes undetected, it can lead to additional health complications. People with AFib have approximately five times greater risk of stroke than those who do not have AFib, and strokes related to AFib are often more severe compared to strokes due to underlying causes.
+1,2,7  Early detection can be a critical first step to diagnosing AFib.
+Trends in consumer wearables
+Evolving consumer wearable technology, increased consumer adoption of technology-supported biometric tracking, and growing awareness of AFib symptoms, like palpitations, may ultimately contribute to increased AFib detection. 8
+Consumer-grade wearable technologies utilizing sensors to detect heart rate and rhythm abnormalities via electrocardiogram (ECG) and photoplethysmography (PPG) can help to support irregular heart rhythm detection since they can be worn continuously. 9  When applied to heart rhythm tracking, ECG and PPG technology can provide valuable information to help patients uncover potential irregularities and potentially empower them to talk to their doctor. 8
+Here is some information on how they work:
+Electrocardiogram (ECG)
+-
+An ECG is a test that records and measures electrical activity of the heart by placing electrodes over the skin. There are different types of ECG depending upon the number of electrodes. Single-lead, or ECG-enabled devices with a single electrode, including select popular smartwatch models, allow users to perform basic heart rhythm assessments. 8,10
+Photoplethysmography (PPG) -
+Certain devices also include optical sensors to measure PPG, which are signals that can detect irregular heartbeats based on the rate of blood volume. PPG-based software algorithms can run on wrist-worn devices and identify irregularities that may inform AFib detection. PPG signals can be used passively over an extended period of time, allowing for a longer settling time to conduct the reading. 8 , 9
+Leveraging wearable technology in AFib detection
+Utilizing PPG and ECG technology, wearable devices can be used to capture biometrics such as heart rate and rhythm through extended monitoring. 8,11,12  The irregular heart rhythm feature offered on some of these devices are well suited for identifying irregular rhythms due to near continuous wear of the device for a prolonged period of time, including during sleep. 9
+While findings from a wearable device alone can’t diagnose AFib, it can work to support patient discussions with their healthcare provider. Based on the data output, the physician may decide to conduct further testing and evaluation. Advancements in irregular heart rhythm notification features in multiple devices could provide more options for individuals to self-monitor and play a more active role in their heart health. 8
+Our ongoing commitment
+The BMS-Pfizer Alliance is excited about the potential for wearables to help patients and physicians detect and understand irregular heart rhythms, like AFib.
+13
+As John Whang, vice president, U.S. Medical, Cardiovascular and Established Brands at Bristol Myers Squibb notes, “consumer wearables can play an important role in helping to detect irregular heart rhythms, which could be a sign of atrial fibrillation (AFib). Through use of these devices, patients may gain increased awareness of their heart rhythms which can help them have informed discussions with their HCPs. The Alliance is proud to support these efforts and help educate on the potential role of wearables as part of our commitment to patients with AFib.”
+CDC. Atrial Fibrillation Fact Sheet. Accessed February 2022. Available at:  https://www.cdc.gov/dhdsp/datastatistics/factsheets/fsatrialfibrillation.htm
+Cleveland Clinic. Know Your Risk Factors for Stroke.  https://my.clevelandclinic.org/health/articles/13398-know-your-risk-factors-for-stroke . Accessed February 2022
+Miyasaka Y, Barnes ME, Gersh BJ, et al. Secular trends in incidence of atrial fibrillation in Olmsted County, Minnesota, 1980 to 2000, and implications on the projections for future prevalence. Circulation. 2006;114:199–225.
+Colilla S, Crow A, Petkun W, Singer DE, Simon T, Liu X. Estimates of current and future incidence and prevalence of atrial fibrillation in the U.S. adult population. Am J Cardiol. 2013;112:1142–1147. doi: 10.1016/j.amjcard.2013.05.063.
+Stahrenberg R, Weber-Krüger M, Seegers J, Edelmann F, Lahno R, Haase B, Mende M, Wohlfahrt J, Kermer P, Vollmann D, Hasenfuss G, Gröschel K, Wachter R. Enhanced detection of paroxysmal atrial fibrillation by early and prolonged continuous holter monitoring in patients with cerebral ischemia presenting in sinus rhythm. Stroke. 2010 Dec;41(12):2884-8. doi: 10.1161/STROKEAHA.110.591958. Epub 2010 Oct 21. PMID: 20966415.
+The Mayo Clinic. Atrial Fibrillation Overview. Accessed March 2022. Available at:  https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624
+Wolf, P, Abbott, R, Kannel, W, Atrial Fibrillation as an Independent Risk Factor for Stroke: The Framingham Study,  Stroke , vol. 22, no. 8, 1991, pp. 983–988.,  https://doi.org/10.1161/01.str.22.8.983
+Elaine Y. Wan, Hamid Ghanbari, Nazem Akoum, Zachi Itzhak Attia, Samuel J. Asirvatham, Eugene H. Chung, Lilas Dagher, Sana M. Al-Khatib, G. Stuart Mendenhall, David D. McManus, Rajeev K. Pathak, Rod S. Passman, Nicholas S. Peters, David S. Schwartzman, Emma Svennberg, Khaldoun G. Tarakji, Mintu P. Turakhia, Anthony Trela, Hirad Yarmohammadi, Nassir F. Marrouche, HRS White Paper on Clinical Utilization of Digital Health Technology, Volume 2, Issue 4, 2021, Pages 196-211, ISSN 2666-6936,
+https://doi.org/10.1016/j.cvdhj.2021.07.001 .
+Pereira T, Tran N, Gadhoumi K, Pelter MM, Do DH, Lee RJ, Colorado R, Meisel K, Hu X. Photoplethysmography based atrial fibrillation detection: a review. NPJ Digit Med. 2020 Jan 10;3:3. doi: 10.1038/s41746-019-0207-9. PMID: 31934647; PMCID: PMC6954115.
+Bayoumy, K., Gaber, M., Elshafeey, A. et al. Smart wearable devices in cardiovascular care: where we are and how to move forward. Nat Rev Cardiol 18, 581–599 (2021). https://doi.org/10.1038/s41569-021-00522-7
+Xie J, Wen D, Liang L, et al. Evaluating the Validity of Current Mainstream Wearable Devices in Fitness Tracking Under Various Physical Activities: Comparative Study. JMIR Publications. 2018;6:4
+Fuller D, Colwell E, Low J, et al. Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate: Systematic Review. JMIR mHealth. 2020; 8:18694
+BMS-Pfizer Alliance Press Release.  The Bristol-Myers Squibb-Pfizer Alliance and Fitbit Collaborate to Address Gaps in Atrial Fibrillation Detection with the Aim of Accelerating Diagnosis.  Accessed February 2022. Available at:  https://news.bms.com/news/partnering/2019/The-Bristol-Myers-Squibb-Pfizer-Alliance-and-Fitbit-Collaborate-to-Address-Gaps-in-Atrial-Fibrillation-Detection-with-the-Aim-of-Accelerating-Diagnosis/default.aspx
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Atrial Fibrillation (AFib)
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Are you familiar with AFib symptoms and the increased risk of stroke associated with the condition? >
+No Time to Wait educates about potentially serious conditions >
+Matter of Moments: Elevating awareness of AFib and its connection to stroke together with Yahoo! Lifestyle >
+
+August 22, 2023
+© 2024
+Bristol-Myers Squibb Company

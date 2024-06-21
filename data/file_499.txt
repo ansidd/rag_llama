@@ -1,0 +1,63 @@
+
+Science
+Q&A with Robert Plenge: What is Bristol Myers Squibb’s research strategy and where are we taking it?
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+May 22, 2024
+Our stories
+/
+Science
+Robert Plenge, executive vice president and head of Research at Bristol Myers Squibb (BMS), shares insights about our approach to pharmaceutical discovery and research, key platforms and areas of focus, and what he feels are the most exciting opportunities ahead to innovate for patients.
+Q: Tell us a little about BMS’ Research organization.
+A:
+At BMS, the cornerstone of our Research organization is the strategy – how we approach our research and put the different pieces together – and the extraordinary team that puts this into practice. That’s what sets us apart as a company.
+Our research philosophy is based on three key principles. The first is what we call
+causal human biology , or the application of human data based on genetics and genetic evolution, not only from BMS clinical trials but also from insights available to us from datasets all over the world. To be successful, we have to understand the cause-and-effect relationship between perturbing a particular biological target with a medicine and the outcome that then impacts human physiology. We leverage this principle at the outset, when identifying new targets at the beginning of the drug discovery journey.
+That’s the first part. The second pillar is
+matching modality to mechanism . Today, there are many therapeutic options, or modalities, for us to choose from within BMS, based on decades of experience discovering and developing new medicines: small molecules, biotherapeutics, and cell therapies, to name just a few. We have accumulated significant expertise across many different approaches, but with so many options at our fingertips, choosing the right one is crucial. We have to understand the disease biology and how a medication or treatment works in the body to produce the therapeutic effect we want. We also have to consider the specific patient population and manufacturing needs. Ultimately, we need to be intentional and thoughtful about which modality to apply against a type of disease so that we get the best possible results for patients.
+And of course, we must ultimately take these medicines to patients at scale, so the third research pillar is the
+path to clinical proof of concept . We think carefully about building that bridge from research into clinical development, how to show early in the process that a medicine works and do our best to increase the number of novel medicines that succeed in late-stage clinical trials and beyond. That includes applying the right technologies and diagnostics to pinpoint the right dose, treatment schedule, and patient populations. All of these factors help guide how we advance medicines through the R&D continuum.
+These principles set the foundation for a research organization that’s unique. We have capabilities and platforms that are truly differentiating, particularly in the areas of targeted protein degradation, cell therapy and radiopharmaceutical therapeutics (RPTs). At the same time, we have amazing team members from all around the world with a passion to help patients prevail over serious disease. When you stitch all of these together, we believe these factors will help us deliver transformative and high-quality medicines with an increased probability of success.
+Q: The three differentiated platforms you mentioned — targeted protein degradation, cell therapy and RPTs — what is BMS doing in these spaces, and why are they so important?
+A:
+There’s so much promise with the platform of targeted
+protein degradation : human cells constantly produce and break down proteins as part of their normal functions, but sometimes that process doesn’t go as expected, and the accumulation of certain proteins can lead to diseases like cancer or autoimmune conditions. We have the ability to break down specific proteins that influence disease processes by using a small molecule that binds to the protein and tags it for degradation. This platform provides an innovative way for us to tap into targets that are driving disease and were previously considered undruggable.
+Beyond our two commercially available protein degrader medicines, we have multiple assets in registrational trials and early development, as well as a very robust discovery program, aided by computational sciences like
+artificial intelligence (AI) and machine learning .
+For example, for prostate cancer, we have an
+asset that targets androgen receptors , which regulate the growth and development of the prostate. This is the first asset from our protein degradation platform to be studied in solid tumors, and the Phase 1 data validate the potential that this platform brings for patients beyond currently approved degraders for hematologic malignancies. Patients with metastatic prostate cancer have a five-year survival rate of just 32% — across our Research organization, we’re working to change that.
+Protein degradation: Recycling in action >
+CAR T
+cell therapy
+is a type of treatment where you introduce engineered cells into the patient’s body to help fight a disease. CAR T can use the patient’s own cells (known as autologous) or donated cells (allogeneic), enhancing their ability to fight disease before introducing them or reintroducing them into the body.
+With this platform, we have a comprehensive strategy to unlock the full potential of CAR T cell therapy to deliver transformative treatments to as many patients as possible. BMS is the only company that has two approved CAR T cell therapies with two distinct targets. We have a wealth of experience in clinical development and manufacturing, and we have additional programs that are in clinical development that we’re really excited about. We have a
+very robust research program
+in this area, too, allowing us to explore novel approaches like our dual CAR  asset, which targets two antigens at once. We’re also going beyond blood cancers and are particularly excited about the potential of CAR T cell therapy to reset the immune systems in patients with autoimmune diseases like lupus.
+How CAR T cell therapy mobilizes >
+RPTs are another exciting platform, representing a new wave of innovation in solid tumors. These medicines latch onto cancer cells and deliver a precise dose of radiation to kill them, even when there are low levels of surface markers that identify the cells as cancerous. We believe it’s an important emerging therapeutic modality, and there’s a lot of excitement here at BMS around adding this technology and expertise to our growing capabilities to deliver new and novel medicines to patients leveraging the latest scientific advances.
+Q: What are some trends across the industry that you’re excited about?
+A:
+I’m a very optimistic person. I guess that’s why I’m in the Research part of the organization — it’s fun to think and dream, imagining a better future and then working to make it happen. If you just look at the number of new modalities that are out there, and at the increasing insights we have in human biology, we have so many opportunities.
+Scientific progress in neuroscience, for example, is leading to new therapeutic approaches for patients and their families — from neuropsychiatric disorders like schizophrenia to neurodegenerative diseases such as Alzheimer’s. It’s incredible to consider the possibilities ahead.
+I’m likewise energized by the collaboration taking place across the healthcare landscape. I always look forward to industry-wide events where we get to meet with innovators from all over who are bringing forward life-changing science.
+Ultimately, we’re all working to solve the greatest unmet medical needs for patients. Working across this ecosystem and putting new insights into practice, leveraging the cutting-edge technologies and modalities at our fingertips, and working with the best colleagues I could imagine — that’s what leads to transformational medicines that improve patients’ lives.
+Robert Plenge
+Executive Vice President, Chief Research Officer, Head of Research
+Robert Plenge serves as executive vice president, leading the research organization across several sites around the world. Prior to his current role, Robert served as head of Discovery & Translational Sciences, with responsibility across all therapeutic areas at Bristol Myers Squibb. Robert joined the company as part of the acquisition of Celgene in 2019. He is an author of more than 125 manuscripts published in peer-reviewed journals, and frequently posts updates to his personal blog,
+Plenge Gen , commenting on critical discovery moments with a focus on patient impact.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Science & Innovation
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+June 10, 2024
+© 2024
+Bristol-Myers Squibb Company

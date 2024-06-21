@@ -1,0 +1,22 @@
+
+Our stories
+/
+Science
+Blood & Bone Marrow Cancer
+Revealing Cancer Cells to the Immune System
+New technologies may help immune cells identify cancer cells using tags
+January 22, 2018
+The immune system is the body’s main level of defense against a hostile world. From viruses and bacteria to the bodies’ own sick and dying cells, immune cells search out and destroy the troublemakers.
+But cancer cells can be tricky; they have ways of hiding from the immune system. The ability of tumor cells to evade the immune response is a key reason why cancers can be so difficult to treat. That’s why researchers are creating tools to help patients’ immune cells better detect and then kill tumor cells.
+One method that’s recently become available for childhood leukemia is to engineer a patient’s own T cells—a type of white blood cell—to recognize proteins found on the surface of the cancer cells. This type of therapy is called chimeric antigen receptor (CAR) T cell therapy.
+With CAR T cell technology, doctors remove some T cells from a patient and genetically modify them with a homing beacon for proteins made by tumors. The newly armed T cells are then multiplied into the billions and infused back into the patient to hunt down the cancer.
+While CAR T cell therapies use markers on the outside of cancer cells to fight them, another immune strategy in development looks inside. In this case, the patient’s immune cells are given an engineered T cell receptor (TCR) that helps it recognize pieces of proteins from within cancer cells. When these protein bits find their way to the surface of the tumor cell, the engineered TCR helps the T cell latch on tightly to the cancer cell.
+Whether from within or without, cancer cells make proteins that reveal them as unwanted guests in the body. Harnessing the power of the immune system to better detect these flags may one day offer new hope to patients who currently have few options.
+related articles
+Today & tomorrow: Our enduring commitment in hematology  >
+Putting patients first: Transforming clinical lessons into development strategies >
+Addressing the burden of anemia in MDS >
+
+October 05, 2020
+© 2024
+Bristol-Myers Squibb Company

@@ -1,0 +1,28 @@
+
+Our stories
+/
+Science
+Immunotherapy
+Igniting the tumor microenvironment to fight cancer
+May 31, 2018
+When it comes to the immune system’s ability to eradicate cancer, effector T cells play an essential role. Cancer is complex, however, and can exploit normal immune functions to evade response from T cells, rendering them unable to detect or destroy tumors. Further, there may not be enough T cells in the
+tumor microenvironment
+to effectively mount an immune response. Bristol Myers Squibb is researching multiple mechanisms that could help restore power to the T cells and by extension, the immune system to fight cancer.
+Reinforcing the importance of this approach, Bristol Myers Squibb entered into a strategic Immuno-Oncology (I-O) collaboration with Nektar Therapeutics for the development of a selective agonist that harnesses the ability to selectively target IL-2 receptors on T cells to increase these immune cells in the tumor microenvironment.  By researching IL-2 in combination with other mechanisms, such as PD-1, it may be possible to expand benefits to more patients with cancer.
+Stimulating T Cells to Create an Inflamed Tumor Microenvironment
+IL-2 is a cytokine for activating T cells and natural killer (NK) cells. Selectively stimulating the βγ IL-2 receptor found only on the surface of T cells and NK cells can increase expansion and cytotoxic activity of both T cells and NK cells. This creates inflammation in the tumor microenvironment and recruits additional immune cells to the site. The increased number of T cells in a tumor (also known as tumor-infiltrating lymphocytes, or TILs) is important for stimulating an anti-tumor immune response. Once in the microenvironment, T cells can bind to the tumor cells and attack them at the source.
+“IL-2 is an established mechanism that acts to increase the quantity and the quality of T cells,” says Vicki Goodman, head of New Asset Development at Bristol Myers Squibb. “By essentially stepping on the gas pedal of the immune system, selective stimulation of IL-2 receptors could have an impact across a broad range of tumors, including those which are not generally sensitive to checkpoint inhibition.”
+Identifying Rational Combinations to Fight Cancer
+Most tumors use multiple mechanisms of immune suppression, which may evolve as the disease progresses. Knowing this, Bristol Myers Squibb is investigating how signaling pathways interact to identify optimal treatment combinations (doublet and/or triplet) to activate the strongest anti-tumor response.
+Researching IL-2 and PD-1 in combination, for instance, may be a key strategy to more effectively activate the anti-tumor immune response, including in some patients who are not otherwise responsive to PD-1 inhibitors. Activation of the
+innate immune
+system or activating co-stimulatory pathways may also be complementary approaches with IL-2 activation for some tumors.
+"We continue to research ways to harness the immune system to treat cancer through multiple mechanisms and pathways,” Goodman said. “We are excited to bring our leading capabilities and expertise to our partnership with Nektar, as we hope to expand the benefits our immuno-oncology agents can bring to patients with cancer."
+related articles
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+My front row seat to the revolution in immune checkpoint inhibition >
+Reflecting on research in genitourinary cancers >
+
+October 20, 2021
+© 2024
+Bristol-Myers Squibb Company

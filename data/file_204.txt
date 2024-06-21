@@ -1,0 +1,20 @@
+
+Using cryogenic electron microscopy to advance protein degradation research
+What is Cryo-EM?
+Cryogenic electron microscopy (cryo-EM) is an advanced method of imaging small, complex and dynamic molecules, such as proteins.
+Cryo-EM allows researchers to see the 3D details of protein structures and how proteins interact with one another at physiologic conditions (their natural environments within the body).
+How Does Cryo-EM Work?
+Cryo-EM uses a microscope that shoots beams of electrons at a sample at cryogenic conditions (extremely low temperatures).
+First, scientists will take the sample being examined and flash freeze it at extremely low temperatures. This "freezes" the molecules at a moment in time and allows scientists to examine them in their natural state and environment.
+They will then place the sample inside the microscope and shoot a beam of electrons at it.
+The microscope uses electrons for this method rather than beams of light because they can reveal very small details within the sample, even down to single atoms.
+A detector underneath the sample detects the electrons, creating images that are relayed to a computer. This process repeats over and over to capture thousands of angles and details of the sample.
+The computer can then take these images produced by the microscope and combine them to create one 3D model of the entire molecule.
+Cryo-EM has enabled purposeful advancements in the field of protein degradation by allowing researchers to rationally design and optimize potential therapeutic molecules. Understanding the interactions between therapeutic molecules and target proteins helps to accelerate the discovery and development process, turning on a “lightbulb” where previously scientists were working in the dark.
+Bristol Myers Squibb recognized the importance of this imaging technology and is using it to advance the company’s rational design capabilities.
+Bristol Myers Squibb is building on its legacy and scientific expertise to advance the field of protein degradation and transform patient outcomes.
+Download Cryogenic Electron Microscopy to Advance Protein Degradation Research Fact Sheetownload Us
+
+January 10, 2024
+© 2024
+Bristol-Myers Squibb Company

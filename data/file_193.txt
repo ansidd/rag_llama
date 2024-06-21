@@ -1,0 +1,297 @@
+
+Explore our comprehensive approach to cancer research
+News
+Media library
+Scientific media resources
+Explore our comprehensive approach to cancer research
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+At Bristol Myers Squibb, we are driven by our passion to improve lives, with one of the most promising  pipelines  in the industry. Our cancer research approach stems from our deep understanding of disease biology and our belief in the importance of causal human biology. Expertise at the disease and molecular levels, coupled with insights from our industry-leading clinical and translational datasets, fuel the next wave of discovery and pipeline advances to bring meaningful new treatment options to patients. Explore our precision approach to cancer research below, and for more about our differentiated research platforms, visit our  Protein Degradation  and  Cell Therapy  hub pages.
+Bristol Myers Squibb is leading advancements in:
+Immuno- Oncology
+i
+Strategies that activate the body's natural immune response to fight cancer
+Cell Therapy
+i
+Cell-based therapies that use or engage immune cells to treat cancer and other diseases
+Protein Degradation
+i
+Harnessing the cell’s own machinery to degrade proteins implicated in cancer and other diseases
+Using multiple approaches to advance the next generation of cancer therapies
+Tap an image to explore
+Improve Recognition of Cancer Cells
+Prevent Immunosuppression
+Enhance Effector Cell Function
+Target Tumor-Intrinsic Pathways
+Back
+Improve recognition of cancer cells
+The immune system naturally defends and protects the body against infection, involving a complex network of cells and signaling molecules. Bristol Myers Squibb is investigating multiple pathways and targets with the aim of amplifying the ability of the immune system to recognize and eliminate cancer cells.
+Fucosyl-GM1
+Fucosyl-GM1
+Targeting the fucosyl-GM1 tumor-associated antigen is intended to improve the recognition of cancer cells by phagocytes and natural killer (NK) cells. 1,2
+References
+References
+Ponath P, Menezes D, Pan C, et al.
+A novel, fully human anti–fucosyl-GM1 antibody demonstrates potent in vitro and in vivo antitumor activity in preclinical models of small cell lung cancer.
+Clin Cancer Res.
+2018;24(20):5178-5189. doi:10.1158/1078-0432.CCR-18-0018
+Krengel U, Bousquet PA.
+Molecular recognition of gangliosides and their potential for cancer immunotherapies.
+Front Immunol.
+2014;5:325. doi:10.3389/fimmu.2014.00325
+Back
+Prevent immunosuppression
+The tumor microenvironment (TME) contains cells and signaling molecules that suppress an anti-tumor immune response. Bristol Myers Squibb is investigating ways to block the tumor’s ability to recruit immunosuppressive cell types to the TME and inhibit signaling that contributes to immunosuppression.
+CCR8
+IL-8
+JNK
+CCR8
+CCR8
+is a protein found mainly on the surface of regulatory T cells (Tregs) within tumors and is a regulator of immune response. 1,2
+CCR8 is upregulated on a highly immunosuppressive subset of Tregs in multiple cancer types. 2,3
+Targeting CCR8 with an antibody to selectively eliminate Tregs within the TME has the potential to facilitate productive anti-tumor immunity.
+References
+References
+Li H-L, Wang L-H, Hu Y-L, et al.
+Clinical and prognostic significance of CC chemokine receptor type 8 protein expression in gastrointestinal stromal tumors.
+World J Gastroenterol.
+2020;26(31):4656-4668. doi:10.3748/wjg.v26.i31.4656
+Ohue Y, Nishikawa H.
+Regulatory T (Treg) cells in cancer: can Treg cells be a new therapeutic target?
+Cancer Sci.
+2019;110(7):2080-2089. doi:10.1111/cas.14069
+Lan R, Jhatakia A, Campbell J, et al.
+Abstract 6694: Highly selective anti-CCR8 antibody-mediated depletion of regulatory T cells leads to potent antitumor activity alone and in combination with anti-PD-1 in preclinical models.
+Cancer Res.
+2020;80(suppl 16):6694. doi:10.1158/1538-7445.AM2020-6694
+IL-8
+The release of
+IL-8
+by cancer cells promotes immune evasion by recruiting immunosuppressive cell types to the TME, thereby reducing immune response against the tumor. 1
+Prevention of IL-8 signaling is intended to inhibit the recruitment of immunosuppressive cell types to the TME. 2
+References
+References
+Alfaro C, Teijeira A, Oñate C, et al.
+Tumor-produced interleukin-8 attracts human myeloid-derived suppressor cells and elicits extrusion of neutrophil extracellular traps (NETs).
+Clin Cancer Res Off J Am Assoc Cancer Res.
+2016;22(15):3924-3936. doi:10.1158/1078-0432.CCR-15-2463
+David JM, Dominguez C, Hamilton DH, Palena C.
+The IL-8/IL-8R axis: a double agent in tumor immune resistance.
+Vaccines.
+2016;4(3). doi:10.3390/vaccines4030022
+JNK
+JNK signaling promotes tumor development and plays a complex role in the regulation of key cellular activities in various cancer types, including cancer cell growth, differentiation and death. 1
+Inhibition of JNK signaling is intended to target specific JNK-mediated cellular functions and result in cancer cell death. 1
+References
+References
+Wu Q, Wu W, Jacevic V, Franca TCC, Wang X, Kuca K.
+Selective inhibitors for JNK signalling: a potential targeted therapy in cancer.
+J Enzyme Inhib Med Chem .
+2020;35(1):574-583. doi: 10.1080/14756366.2020.1720013.
+Back
+Enhance effector cell function
+Cancer cells can suppress effector cells (short-lived activated cells of the immune system), but these cells can also be modified to mount a cytotoxic attack. Bristol Myers Squibb is investigating ways to increase the ability of effector cells to act on cancer cells, direct cytotoxic activity toward cancer cells and engineer cell therapies that exhibit continued anti-cancer activity.
+BCMA
+CD33
+CD96
+GPRC5D
+TIGIT
+BCMA
+BCMA is a transmembrane protein that plays a key role in the proliferation, maturation and differentiation of B cells into plasma cells and is important for plasma cell survival. 1
+BCMA can be overexpressed in cancer cells. 2
+BCMA can be targeted using multiple types of anti-cancer therapeutics recognizing the BCMA receptor and subsequently killing the cancer cell. 1,3,4
+References
+References
+Cho S-F, Anderson KC, Tai Y-T.
+Targeting B cell maturation antigen (BCMA) in multiple myeloma: potential uses of BCMA-based immunotherapy.
+Front Immunol.
+2018;9:1821. doi:10.3389/fimmu.2018.01821
+Novak AJ, Darce JR, Arendt BK, et al.
+Expression of BCMA, TACI, and BAFF-R in multiple myeloma: a mechanism for growth and survival.
+Blood.
+2004;103(2):689-694. doi:10.1182/blood-2003-06-2043
+Yu B, Jiang T, Liu D.
+BCMA-targeted immunotherapy for multiple myeloma.
+J Hematol Oncol.
+2020;13:125. doi:10.1186/s13045-020-00962-7
+Seckinger A, Delgado JA, Moser S, et al.
+Target expression, generation, preclinical activity, and pharmacokinetics of the BCMA-T cell bispecific antibody EM801 for multiple myeloma treatment.
+Cancer Cell.
+2017;31(3):396-410. doi:10.1016/j.ccell.2017.02.002
+CD33
+CD33 is a protein that is expressed on acute myeloid leukemia cells. 1
+CD33 can be targeted using anti-cancer therapies such as cell therapies, immune engagers and antibody drug conjugates, which recognize the antigen and subsequently kill the cancer cell. 1
+References
+References
+Walter, RB.
+The role of CD33 as therapeutic target in acute myeloid leukemia.
+Expert Opin Ther. Targets.
+2014;18:7, 715-718, DOI: 10.1517/14728222.2014.909413.
+CD96
+CD96 is expressed on T cells and NK cells, sharing ligands with the TIGIT receptor and generating co-stimulatory or co-inhibitory signals. 1
+Co-inhibition of CD96 and TIGIT is intended to restore effector cell function by blocking the inhibitory immune checkpoint signaling pathway. 1
+References
+References
+Feng S, Isayev O, Werner J, Bazhin AV. CD96 as a
+Potential Immune Regulator in Cancers.
+Int J Mol Sci.
+2023;24(2): 1303. doi: 10.3390/ijms24021303
+GPRC5D
+GPRC5D is a myeloma cell surface antigen overexpressed by cancer cells and associated with poor prognosis. 1
+GPRC5D can be targeted using anti-cancer therapies such as cell therapies, immune engagers and antibody drug conjugates, which recognize the antigen and subsequently kill the cancer cell. 1
+References
+References
+Smith EL, Harrington K, Staehr M, et.
+Al. GPRC5D is a target for the immunotherapy of multiple myeloma with rationally designed CAR T cells.
+Sci Transl Med.
+2019;11(485):eaau7746. doi: 10.1126/scitranslmed.aau7746.
+TIGIT
+TIGIT is expressed on T cells and NK cells, sharing ligands with the CD96 receptor and generating co-stimulatory or co-inhibitory signals. 1-3
+Co-inhibition of TIGIT and CD96 is intended to restore effector cell function by blocking the inhibitory immune checkpoint signaling pathway. 1-3
+References
+References
+Feng S, Isayev O, Werner J, Bazhin AV. CD96 as a
+Potential Immune Regulator in Cancers.
+Int J Mol Sci.
+2023;24(2): 1303. doi: 10.3390/ijms24021303
+Johnston RJ, Comps-Agrar L, Hackney J, et al.
+The immunoreceptor TIGIT regulates antitumor and antiviral CD8(+) T cell effector function.
+Cancer Cell.
+2014; 26(6):923-937. doi: 10.1016/j.ccell.2014.10.018
+Manieri NA, Chiang EY, Grogan JL.
+TIGIT: A key inhibitor of the cancer immunity cycle.
+Trends Immunol.
+2017;38(1):20-28. doi:10.1016/j.it.2016.10.002
+Back
+Target tumor-intrinsic pathways
+Cancer cell growth and survival is dictated by molecular mechanisms within the tumor. Bristol Myers Squibb is working to leverage these various pathways to enhance cancer cell death, suppress mechanisms driving resistance to therapy, and enhance antitumor immunity.
+Aiolos and Ikaros
+AR
+CK1α
+FRα
+ROS1/NTRK
+SHP2
+Aiolos and Ikaros
+Aiolos and Ikaros regulate gene expression in tumor cells and T cells and contribute to
+myeloma
+cell survival.
+The destruction of Aiolos and Ikaros, mediated through
+protein degradation , is intended to result in cancer cell death and stimulation of immune effector cells. 1,2
+With targeted protein degradation, researchers are harnessing cells’ own machinery to degrade several whole new classes of proteins that were previously considered “ undruggable .”
+References
+References
+Chamberlain PP, Cathers BE.
+Cereblon modulators: low molecular weight inducers of protein degradation.
+Drug Discov Today Technol.
+2019;31:29-34. doi:10.1016/j.ddtec.2019.02.004
+Bjorklund CC, Kang J, Amatangelo M, et al.
+Iberdomide (CC-220) is a potent cereblon E3 ligase modulator with antitumor and immunostimulatory activities in lenalidomide- and pomalidomide-resistant multiple myeloma cells with dysregulated CRBN.
+Leukemia.
+2020;34(4):1197-1201. doi:10.1038/s41375-019-0620-8
+AR
+Androgen receptors (AR) play a key role in prostate cancer cell proliferation, but increased AR expression and mutations lead to developed resistance to AR inhibitors. 1
+The selective destruction of AR, mediated through
+protein degradation , is intended to inhibit the proliferation of cancer cells. 2,3
+References
+References
+Dai C, Heemers H, Sharifi N.
+Androgen signaling in prostate cancer.
+Cold Spring Harb Perspect Med.
+2017;7(9). doi:10.1101/cshperspect.a030452
+Beretta GL, Zaffaroni N.
+Androgen receptor-directed molecular conjugates for targeting prostate cancer.
+Front Chem.
+2019;7. doi:10.3389/fchem.2019.00369
+Scheepstra M, Hekking KFW, van Hijfte L, Folmer RHA.
+Bivalent ligands for protein degradation in drug discovery.
+Comput Struct Biotechnol J.
+2019;17:160-176. doi:10.1016/j.csbj.2019.01.006
+CK1α
+CK1α is a kinase that influences regulatory proteins involved in multiple signaling pathways important to cancer cells. 1,2
+The selective destruction of CK1α, mediated through
+protein degradation , is intended to inhibit the proliferation of cancer cells. 1,2
+References
+References
+Jiang S, Zhang M, Sun J, Yang X.
+Casein kinase 1α: biological mechanisms and theranostic potential.
+Cell Commun Signal.
+2018 May 24;16(1):23. doi: 10.1186/s12964-018-0236-z.
+Janovská P,
+Normant E, Miskin H, Bryja V.
+Targeting Casein Kinase 1 (CK1) in Hematological Cancers.
+Int. J. Mol. Sci.
+2020;21(23):9026; https://doi.org/10.3390/ijms21239026.
+FRα
+FRα is a protein that is overexpressed on various cancer cell types, including ovarian, breast and lung cancers, but is minimally expressed in healthy cells. 1
+Selectively targeting FRα is intended to help specifically deliver a therapeutic payload to cancer cells while minimizing the effect on healthy cells.
+References
+References
+Cheung A, Bax HJ, Josephs DH, et al.
+Targeting folate receptor alpha for cancer treatment.
+Oncotarget.
+2016;7(32):52553-52574. doi: 10.18632/oncotarget.9651.
+ROS1/NTRK
+ROS1
+and
+NTRK
+gene alterations are oncogenic drivers of non-small cell lung cancer (NSCLC) and other advanced solid tumors. 1, 2
+Targeting
+ROS1/NTRK
+is intended to block tumor growth by preventing crucial cancer cell functions and result in cancer cell death. 1, 2
+References
+References
+Gendarme S, Bylicki O, Chouaid C, Guisier F.
+ROS-1 Fusions in Non-Small-Cell Lung Cancer: Evidence to Date.
+Curr Oncol.
+2022 Jan 28;29(2):641-658. doi: 10.3390/curroncol29020057.
+Qin H, Patel MR.
+The Challenge and Opportunity of NTRK Inhibitors in Non-Small Cell Lung Cancer.
+Int J Mol Sci.
+2022 Mar 8;23(6):2916. doi: 10.3390/ijms23062916.
+SHP2
+SHP2 is an attractive therapeutic target due to its wide-ranging role in cancer growth and role in adaptive resistance to many targeted therapies. 1
+SHP2 inhibition is intended to block tumor cell proliferation and survival and enhance antitumor immunity via: 1-3
+Reduced tumor adaptive resistance to targeted therapies, including MAPK pathway inhibitors
+Increased CD8 T-cell proliferation and recruitment and decreased activity of immunosuppressive myeloid cells in the tumor microenvironment
+References
+References
+Zhang J, Zhang F, Niu R.
+Functions of Shp2 in cancer.
+J Cell Mol Med.
+2015 Sep;19(9):2075-83. doi: 10.1111/jcmm.12618.
+Fedele C, Ran H, Diskin B, et al.
+SHP2 Inhibition Prevents Adaptive Resistance to MEK Inhibitors in Multiple Cancer Models.
+Cancer Discov.
+2018 Oct;8(10):1237-1249. doi: 10.1158/2159-8290.CD-18-0444.
+Wang, Y., Mohseni, M., Grauel, A. et
+al. SHP2 blockade enhances anti-tumor immunity via tumor cell intrinsic and extrinsic mechanisms.
+Sci Rep 11,
+1399 (2021). https://doi.org/10.1038/s41598-021-80999-x.
+With an expansive arsenal of modalities
+Tap an image to explore
+Small molecules
+CAR T Cells
+Immune cell Engagers
+Probodies
+Bispecific antibodies
+Antibody-drug conjugates
+Back
+Organic compounds that are relatively small in size, usually taken orally and easily absorbed by the body.
+Back
+Autologous chimeric antigen receptor (CAR) T
+cell therapy
+reprograms immune cells to attack cancer.
+Back
+Molecules that redirect the body’s immune response toward cancer cells.
+Back
+“Masked” antibodies that are activated within the tumor microenvironment. Designed to limit activity—and toxicity—in healthy tissue.
+Back
+Engineered antibodies that can bind to 2 different antigens.
+Back
+By tethering a small molecule to a biologic, antibody-drug conjugates are engineered to deliver small molecules to targeted locations using biologic monoclonal antibodies as honing mechanisms.
+
+April 22, 2024
+© 2024
+Bristol-Myers Squibb Company

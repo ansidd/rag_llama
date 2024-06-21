@@ -1,0 +1,26 @@
+
+Our stories
+/
+News & Perspectives
+Research and Development
+REMS patient companion app enables faster, easier surveys
+August 23, 2021
+Bristol Myers Squibb has developed a mobile app that reminds patients when it’s time to take a required survey and lets them complete it on their smartphones.
+Certain medications have a requirement that patients complete periodic surveys designed to reinforce their safe use.  These surveys are part of a Risk Evaluation and Mitigation Strategy (REMS) mandated by the U.S. Food and Drug Administration (FDA) to help ensure that medicines with serious potential risks are used safely.
+Bristol Myers Squibb has several medicines requiring such surveys. The surveys are usually initiated by the patient’s pharmacist calling the patient for counseling and then transferring the call to the Bristol Myers Squibb REMS Call Center. The patient then completes the survey by speaking to a Customer Care Center representative or by being transferred to an Interactive Voice Response (IVR) system.
+REMS programs are essential but could be a burden for some patients. The app is designed to reduce that burden by making the process faster, more independent and more discreet for the patient while maintaining the integrity of the safety program.
+The REMS Patient Companion app works by reminding patients when it’s time for the survey and lets them complete it on their smartphones at their convenience. Patients download the app from Apple’s
+App Store
+and the
+Google Play Store . They can also scan a QR code that launches the download.
+“The development of the REMS Companion App brings together our commitment to patient safety and for innovation, providing an improved experience while maintaining all safety requirements,” said Nathalie Sweeney, senior manager, REMS Advisor, WorldWide Patient Safety at Bristol Myers Squibb.
+The idea for the app came directly from patients.  Patients also participated in the REMS Companion app development.  They provided feedback that helped improve its functionality and served as pilot testers to confirm its readiness for use. The result? The app has been rapidly adopted, with approximately 8,000 patients downloading it since launch.
+“This app was a wonderful opportunity to hear directly from our patients how we could reduce the REMS burden,” said Jennifer Chapman, director, REMS Operations , Advisor & Training, Bristol Myers Squibb. “For our patients to know that their idea was heard, and that what they requested was provided is truly fulfilling for me. It makes me want to continue to be better for our patients every day.”
+related articles
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+September 14, 2023
+© 2024
+Bristol-Myers Squibb Company

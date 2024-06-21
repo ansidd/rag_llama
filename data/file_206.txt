@@ -1,0 +1,29 @@
+
+Targeting cancer with CAR T cell therapy
+News
+Media library
+Scientific media resources
+Targeting cancer with CAR T cell therapy
+CAR T cell therapy reprograms immune cells
+for a personalized attack on cancer
+Autologous chimeric antigen receptor (CAR) T cell therapy is a type of immunotherapy that has the potential to work with a patient’s immune system by reprogramming their T cells (or fighter cells) to recognize and bind to proteins (tumor-associated antigens) found on the surface of certain cells, including cancerous and/or healthy cells that may also express the tumor-associated antigen.
+Unlike traditional small molecule or biologic treatments intended to treat a broad range of patients, autologous CAR T cell therapy is specifically manufactured for each individual patient using their own T cells. After a one-time infusion, the CAR T cells can continue to multiply in the patient’s body after being administered.
+Creating CAR T cell therapies involves a
+scientifically engineered manufacturing process
+As autologous CAR T cells are manufactured for each individual patient, the complex engineering process starts with collection of the patient’s T cells through a process called apheresis, or leukapheresis. The collected sample is then shipped to the manufacturing facility for engineering of CAR T cells.
+Next, a gene that encodes the CAR – which binds to a specific protein (tumorassociated antigen) found on cancer cells and is linked to T cell activation domains – is inserted into the patient’s T cells, thereby reprogramming them into CAR T cells that can bind to targeted tumor cells, resulting in CAR T cell activation, expansion and tumor-killing activities.
+Millions of the engineered CAR T cells are then grown in the strictly controlled manufacturing facility before they are infused to the patient.
+Pursuing next-generation approaches
+to CAR T cell therapy
+Research suggests that, with a single treatment, CAR T cell therapy has been effective at producing clinically meaningful, deep and durable responses in patients where other treatment options have stopped working.
+Because autologous CAR T cell therapies are made specifically for each individual patient, the manufacturing process is complex and involves close coordination across manufacturing facilities and healthcare teams.
+Bristol Myers Squibb is evaluating ways to optimize CAR T cell design and manufacturing to advance next-generation cell therapies.
+To reduce the time and travel burden on patients associated with receiving CAR T cell therapies at certified referral institutions, BMS is also researching ways to bring CAR T cell therapy closer to  patients safely and effectively.
+In addition, BMS is conducting early research into multiple diverse approaches to cell therapy, such as allogeneic CAR T cells, which are made from T cells of healthy donors instead of using the patient’s own reprogrammed T cells, as in the autologous approach.
+Click here
+to learn more about Bristol Myers Squibb’s  ongoing cell therapy research.
+Download Cell Therapy Fact Sheet
+
+January 10, 2024
+© 2024
+Bristol-Myers Squibb Company

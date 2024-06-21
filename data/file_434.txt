@@ -1,0 +1,35 @@
+
+Our stories
+/
+Science
+Immunotherapy
+Research in understanding immunotherapy resistance: A Q&A with Dr. Jason Luke
+September 08, 2017
+As more patients with cancer have been treated with immunotherapy, the issue of resistance to treatment has emerged as an important issue. To learn more about some of the ongoing research aiming to uncover why patients do not initially respond or stop responding to treatment, we sat down with Jason Luke, MD of the University of Chicago and member of the
+International Immuno-Oncology Network (II-ON) .
+Dr. Jason Luke, MD of University of Chicago and member of the International Immuno-Oncology Network (II-ON)
+Question: Why do you believe some cancer patients become resistant to I-O treatment?
+Dr. Luke: Research points to two potential reasons for resistance: immune exclusion, when the tumor does something that blocks the ability of the immune system to attack it, and immune exhaustion, when immune cells become dysfunctional and are prevented from doing their jobs in killing cancer. Eventually we hope to identify these mechanisms and translate our findings into specific treatments suited to individual patient needs.
+In
+immunotherapy resistance , tumors do not respond to immunotherapy from the beginning of treatment (primary resistance) or stop responding after a period of time (acquired resistance).
+Question: How is the population of patients resistant to I-O therapy changing?
+As the number of patients treated with immunotherapy increases, so does the number of patients with resistant tumors. Given the wide variability of immunotherapy use from adjuvant (after surgery) to first-line treatment after metastasis to post chemotherapy, the types of individuals span all categories of cancer treatment. Researchers are working diligently to understand and address mechanisms of both primary (treatment does not help from the beginning) and acquired (treatment stops working after initial benefit) resistance.
+Basket trials
+test the effect of one drug on a single drug target in a variety of tumor types, at the same time.
+Question: How are clinical trials changing to address potential resistance?
+A trial type called “basket trials” have been introduced in I-O to evaluate patient subgroups across different tumor types in the setting of resistance to I-O treatment. These studies allow us to evaluate the effects of a particular drug across patient populations, regardless of tumor origin.
+Question: Is there any way to predict which patients might become resistant to an immunotherapy?
+In my opinion, we are currently not very good at this. The field is still exploring mechanisms of resistance and working vigorously to predict which patients might become resistant.
+Non-inflamed tumors , also called "cold tumors" do not have an immune response against a tumor and leave patients unresponsive to immunotherapies. T cell-inflamed tumors, or "hot tumors," have an immune response against the tumor, making them responsive to immunotherapies.
+Question: How can biomarkers potentially help match patients to the appropriate treatments for their specific tumor biology?
+We hope that by identifying potential factors (called “biomarkers”) associated with either the tumor or the immune response we can identify different mechanisms of resistance. An example of this is the “T cell-inflamed” vs “non-T cell-inflamed” paradigm in which T cell-inflamed tumors have a pre-existent immune response that can be augmented with immunotherapy. As these biomarker efforts become more specific, we hope to identify markers that will help us apply treatments in a personalized approach to avoid treatment resistance.
+Question: How close would you say the field is to identifying some of these mechanisms of resistance?
+We are all working as fast as possible. While it is hard to gauge when a scientific breakthrough may occur, the field continues to advance with new research each day. As more patients become resistant, it also provides us with an opportunity to build on our understanding for what is happening. For example, at the University of Chicago, we are actively gathering tumor biopsies and blood draws upon resistance to help us study why patients become resistant. Once we have a better understanding of why patients become resistant to treatment and the biomarkers associated, we can hopefully design treatments in such a way that will improve their response.
+related articles
+Understanding I-O Resistance >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+One woman's account of living with ulcerative colitis >
+
+March 30, 2021
+© 2024
+Bristol-Myers Squibb Company

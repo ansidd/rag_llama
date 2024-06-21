@@ -1,0 +1,69 @@
+
+Science
+What's the future of cell therapy at BMS?
+Anne Kerber, senior vice president and head of late clinical development, discusses recent developments within BMS' cell therapy work and where the science is heading.
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+November 08, 2023
+Let’s start with the basics: What is CAR T cell therapy and how does it work?
+Cell therapies are arguably the most personalized form of cancer treatment available today. “CAR” stands for chimeric antigen receptors, and the “T” stands for T cells, which are immune cells that help protect the body from pathogens. In CAR T therapy, these “CAR” receptors are genetically engineered to recognize and bind to proteins found on the surface of certain cancer cells, as well as healthy cells that express the same proteins.
+There are two types of T cell therapy: autologous and allogeneic. Unlike traditional cancer therapies, such as chemotherapy,
+autologous
+CAR T cell therapies are specifically manufactured for individual patients using their own T cells. The manufacturing process, which creates personalized medicine, is incredibly complex, and it can take several weeks to complete the cell collection, re-engineering and infusion process.
+A look at how autologous CAR T treatments are manufactured:
+Allogeneic , or “off-the-shelf,” T cell therapy is an investigational, next-generation approach in which reprogrammed T cells of healthy donors — rather than a patient’s own T cells — can be delivered to patients with shorter manufacturing wait time.
+Tell us more about BMS’ progress in cell therapy.
+Currently, we’re the only company with two approved CAR T treatments, one targeting the CD19 (cluster of differentiation) protein in B-cell malignancies and the second, the BCMA (B-cell maturation antigen) protein in multiple myeloma. Our team is working to expand approved therapies into earlier lines of treatment, obtain approval in new countries, scale up our manufacturing capacity, and seek approval to treat other blood cancers, such as chronic lymphocytic leukemia.
+We’re also focused on making the manufacturing process quicker and more efficient. We’ve invested in a “NEX-T” manufacturing platform that has the potential to develop a CAR T therapy in a shorter amount of time.
+That platform is also designed to enable the growth of a more consistent and powerful cell type, which we hope will result in more durable responses in patients.
+We’re excited to use this platform first in a trial currently underway for systemic lupus erythematosus (SLE), the most common type of lupus. This is our first cell therapy trial outside of the cancer space and the early data from the academic community is promising. We’re incredibly hopeful about the opportunity to make a difference for these patients.
+Click here to read transcript
+What is cell therapy?
+CAR-T cell therapy is a revolution in medicine and cancer immunotherapy. The patient’s own T-cells are genetically engineered to recognize, target and bind to proteins found on certain cancer cells. Usually, these patients have received but not responded well to more conventional treatment options. Cell therapies, which are most often administered as a one-time infusion, offer a treatment pathway and hope for patients who have run out of options. Many of BMS’ scientists are working on the frontline of regenerative medicine. We are excited about the therapeutic potential of CAR-T for a range of diseases beyond blood cancer - for example, in immune-related disorders such as lupus and multiple sclerosis.
+How is BMS addressing manufacturing challenges in cell therapy?
+We have to produce more product if we want to help more patients benefit from this treatment. That’s why we’re committed to improving our capacity and turnaround time, and these are some of the ways we’re working to do that:
+grow our global manufacturing network, which includes four cell therapy facilities across the United States, and another underway in Leiden, Netherlands;
+strengthen our manufacturing partnerships and secure a global long-term viral vector supply, including by adding in-house production at a new U.S.-based facility in Libertyville, Illinois;
+use technology and automation to our advantage to reduce complexity and improve turnaround time and consistency; and,
+work with our regulatory counterparts to advance the understanding of this novel therapeutic class; update industry-wide standards; and make the review process seamless and efficient.
+Earlier this year , we joined the Cellares Technology Adoption Partnership Program to evaluate automated manufacturing of CAR T cell therapy on the company’s proprietary Cell Shuttle platform. This could be a cost-efficient and scalable manufacturing solution.
+Can allogeneic or “off-the-shelf” cell therapy approaches help overcome challenges in production capacity?
+Across the industry, there’s been a lot of anticipation for allogeneic cell therapies in the hopes of making CAR T treatments more readily accessible to patients. Allogeneic therapies can be produced at scale, allowing the treatment to be manufactured before a patient is even diagnosed. When a patient comes to a clinic, there would be an off-the-shelf product ready to give directly to the patient.
+Still, significant work needs to be done to better understand this type of therapy. For example, quality control, immunologic mismatch between donor and recipient, durability to avoid the need for repeat dosing, and regulatory pathways all still need to be better understood and established.
+We believe there is room for both allogeneic and autologous therapies, and we’re concentrating our efforts on working with both flexibility and speed, aiming to pursue the most promising approaches for patients.
+How is BMS applying its knowledge in cell therapy across other therapeutic areas?
+Our company is recognized as a
+leader in the CAR T space
+– one of the fastest growing modalities in the industry. Our research and development in cell therapy has grown far beyond this first wave of blood cancers to include solutions for solid tumors, neuroscience and immunology.
+Within the immunology area, resetting the immune system is a key component of our research approach. We’re extending our learnings from cancer to immune-mediated (inflammatory) diseases by speeding up our investigational research in CD19-targeted CAR T cell therapy in lupus and other diseases like multiple sclerosis.
+Our cell therapy portfolio is the broadest in the industry, with multiple assets targeting BCMA, CD19, another receptor called GPRC5D, and a dual CAR that combines BCMA and GPRC5D. We have extensive data from translational and clinical research, including CAR T trials involving thousands of patients, that we learn from and build on, empowering us to move forward into the next generation of cell therapies.
+What’s most exciting about the cell therapy research at BMS?
+That’s easy. For me, it’s the commitment to go beyond incremental improvements. We’re innovating across different targets, modalities, combinations and disease areas, focusing on approaches that can offer
+transformational
+efficacy . We want to break ceilings to create significant advances for patients.
+Within cell therapy, I’m also excited to see us making progress with several programs, not just in hematology, but also in areas like immunology and neuroscience. And BMS is leading advanced new technologies in cell therapy, including the dual CAR and allogeneic programs, while scaling manufacturing.
+In part, this is due to our working together with others in the industry and in academic research. We have more than 100 ongoing collaborations – spanning all aspects of research – giving us access to the new technologies to make this innovation possible.
+At the same time, it’s crucial that we continue to build and grow partnerships with healthcare professionals, patients, and advocacy organizations. That’s how we’ll better understand and address unmet needs from perspectives other than our own.
+And cell therapy itself is truly exciting. We’re building on our learnings to help drive this field forward, and I believe BMS has the right strategy, talent and collaborations to literally transform patients’ lives through science. All totaled, that’s pretty amazing.
+Anne Kerber
+Senior Vice President, Head of Late Clinical Development
+Anne Kerber serves as senior vice president and leads all clinical trial and late development activities across BMS’ hematology, oncology and cell therapy (HOCT) portfolio. Anne is an experienced leader and drug developer, with expertise spanning these three therapeutic areas. She has brought several CAR T assets across different hematologic malignancies from clinical development to regulatory approval, as well as held several leadership roles overseeing the development of T- and NK-cell engagers in hematologic indications.
+How CAR T Cell Therapy Mobilizes >
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+CAR T-Cell Therapy ,
+Cancer Research
+Learn more about cell therapy
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+March 01, 2024
+© 2024
+Bristol-Myers Squibb Company

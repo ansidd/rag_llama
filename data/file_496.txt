@@ -1,0 +1,93 @@
+
+Science
+Science Firsthand: Translating the promise of cell therapy
+April 03, 2024
+Science Firsthand is a storytelling platform from Bristol Myers Squibb that celebrates the countless moments along the path from drug discovery through development – unique moments that have the potential to lead to major scientific breakthroughs that ultimately help transform the lives of patients. The second episode focuses on the challenges, progress and potential of CAR T cell therapy, one of the most exciting medical innovations of the past two decades.
+Click here to read transcript
+Teri Foy [00:00]:
+I remember the first time somebody described what a CAR T cell was to me, and I was like, wow, that's really cool, but it doesn't sound very feasible. It takes a long time, a lot of collaboration, a lot of different unique skill sets and insights to take it from a concept, to go back into a patient's body and kill tumor cells.
+Mike Burgess [00:28]:
+The initial idea of CAR T cell therapy really emerged in the 1980s. People were working largely on vaccine approaches.
+T. Foy [00:36]:
+It was elegant science and it was complex, but it didn't work very well.
+M. Burgess [00:40]:
+One of the most exciting breakthroughs in the last 20 years in cancer immunotherapy was the first patient treated with CD19 CAR T. This was a patient, a six year old girl who had advanced acute lymphoblastic leukemia, had failed available treatments and enrolled in a Phase 1 clinical trial. And that patient actually had a complete response and is still alive today. This is a watershed moment in the field. You know that you're really on to something and that this could transform the lives of not just this patient, but many other patients.
+T. Foy [01:16]:
+CAR T cell therapies work by pulling out a patient's own immune cells in a process called apheresis. We then purify out these very important killer cells called T cells. And then those cells, they go through an engineering process. And that works by designing a gene which has the receptor that's going to recognize the tumor cells as well as the intracellular signaling components that a T cell has and putting that string of genes into the T cells. A virus can deliver that cargo into the T cell, so every T cell then that's activated and grown from those original T cells contains that chimeric antigen receptor now that's engineered to recognize tumor cells.
+T. Foy [01:59]:
+Normally your T cells are guided to recognize a variety of foreign things. So the idea that you could take all your T cells that might be specific for different things and make them specific for one thing, and that's the tumor, and grow them up into large quantities and put them back in the patient and have them do what they're intended to do, which is kill infected cells, was pretty genius.
+T. Foy [02:24]:
+A big challenge was you put all these T cells in a patient, they're highly active, they find their tumor, they get all jazzed up and they kill the tumor, but a consequence of that is that they liberate a lot of inflammatory cytokines, which cause some toxicity in the patients and in the very early days, that was a very high risk for those patients. And so the field had to quickly figure out how to manage that inflammation or that toxicity to balance the risk/benefit of cell therapies.
+M. Burgess [02:59]:
+Having worked as a physician scientist in early clinical development for some time at Bristol Myers Squibb, we worked with a lot of different modalities, small molecules, biologics. What's most exciting is that, you know, you can see activity in some of these trials that you don't see with these other approaches very early in the study.
+T. Foy [3:22] : Getting the first clinical data where we could see cells expanding, CAR T cells expanding, and patients’ tumors going away.
+M. Burgess [03:29]:
+The question always becomes in a clinical trial, what's driving that response? What allows for a more durable response? And then scientifically,  can we collect information from the trial that will allow us to sort of predict for efficacy in patients and also toxicity?
+M. Burgess [03:47]:
+The translational medicine approach we've taken with CAR T cell therapy at BMS has been incredibly comprehensive and fundamental to our cell therapy programs from the very beginning. And as we collect that information and treat more patients, we can actually build a data set that allows us to ask the question, you know, what is the optimal CAR T cell therapy for a patient? And we can take that and go back to the laboratory and work on re-engineering the cells, work on our manufacturing platforms, and work on other approaches  to now deliver what we think is going to be the best cell therapy we can make.
+T. Foy [04:27]:
+Bristol Myers Squibb had sort of paved that way with checkpoint inhibitor drugs, so there's real strong expertise there and understanding T cell biology in the context of treating tumors. And we continued that investment and built a really expansive cell therapy organization within Bristol Myers Squibb. And it's amazing that we have so many resources  dedicated to this modality.
+M. Burgess [04:53]:
+Cell therapy is incredibly exciting to work on because it really is a team sport that requires careful coordination. We have incredible expertise in this area. We're the only company that has two products approved in two different diseases. And then we have an incredible pipeline.
+T. Foy [05:13]:
+One of the really amazing things that's happened in the last year is we've taken the same CD19 CAR T cell that's used to treat B cell malignancies and we're treating patients that have autoimmune diseases that are caused by B cells, B cells making antibodies that attack tissues, diseases like lupus nephritis. So we have a wealth of opportunity ahead of us to think about solid tumors, autoimmune disease, making these therapies off the shelf from healthy donors as opposed to from patients, a variety of different ways that we can expand the learnings today to bring these drugs to more patients.
+M. Burgess [05:52]:
+For me, I love CAR T cell therapy because it's the perfect interface of science and medicine. There are a lot of jobs where I think you go to work every day and you work really hard and you're not really sure, you know, what's the final outcome. It's a very measurable outcome. When I look at a clinical trial and I say, I worked on this trial and there's still patients in a complete response. It's an incredibly gratifying and fulfilling feeling.
+T. Foy [06:19]:
+When I look back ten years ago when we first started in this space, the science sounded really cool. It also sounded really hard. And to be where we are today, where the field has shown not only is it feasible, but it's working tremendously well for patients. It's amazing, it's rewarding, it's very satisfying when we have a patient come through and talk about how they were planning to miss their daughter's wedding because they didn't think they were going to live that long to then getting the therapy. Yeah, it's amazing.
+Our stories
+Science
+Science Firsthand: Translating the promise of cell therapy
+Share Icon
+Facebook Icon
+Twitter Icon
+Linkedin Icon
+Email Icon
+The story of how chimeric antigen receptor (CAR) T cell therapy went from hypothesis to groundbreaking treatment embodies the challenges, perseverance and ingenuity often synonymous with breakthroughs. “When I look back 10 years ago, I remember the first time somebody described what a CAR T cell was to me, and I was like, wow, that's really cool, but it doesn't sound very feasible,” says Bristol Myers Squibb’s Teri Foy, PhD, senior vice president, Cancer Immunology and Cell Therapy Thematic Research Center and Seattle Site lead. Fast forward to today — CAR T cell therapy is one of the most exciting medical innovations of the past two decades.
+Committed to improving cell therapy science, Bristol Myers Squibb is advancing a robust pipeline of cell therapy projects. Researchers are finding new targets based on causal human biology, uncovering new ways to engineer the cells and thinking creatively about how to selectively target solid tumors and expand to other disease areas like immune-mediated diseases and neuroscience.
+Reaching beyond current CAR T cell therapy targets
+Bristol Myers Squibb is currently the only company with two approved CAR T treatments for two distinct targets: the CD19 (cluster of differentiation) protein in B-cell malignancies and the BCMA (B-cell maturation antigen) protein in multiple myeloma. “The ability of a CAR T cell to recognize a cancer target, or protein on the cancer cell surface, comes from a receptor that is engineered on the outside of the T cell. Proteins expressed on cancer cells can vary from patient to patient and change over time, which makes the development of new CAR T cell therapies for new targets of particular importance,” says Bristol Myers Squibb’s Mike Burgess, MD, PhD, senior vice president, head of Translational Medicine.
+In multiple myeloma, for example, patients may not respond to BCMA-directed therapy if their cancer cells have low levels of BCMA expression. Investigating a second target expressed by myeloma cells may provide additional benefit for myeloma patients who have failed or progressed on BCMA-directed therapies. GPRC5D is a myeloma cell surface antigen preferentially overexpressed by cancer cells in the bone marrow, with limited expression on the surface of other cell types. This molecule is expressed independently of BCMA and can be used as a second target in multiple myeloma when cells cannot be adequately targeted using BCMA, potentially resulting in improved response rates. Clinical trials are currently underway investigating a GPRC5D-targeted CAR T cell therapy developed by Bristol Myers Squibb.
+Bringing CAR T cell therapy to new therapeutic areas
+The concept of CAR T cell therapy, though most successfully used to date in the treatment of cancer, can be applied across disease states to target cells contributing to disease.
+“
+Causal human biology underpins the inception of each one of our scientific undertakings. We can extend our expertise, applying it in new ways and in new areas, if we have a sound understanding of the underlying disease process and actionable insights from past programs.
+Robert Plenge, MD, PhD, executive vice president, head of Research
+”
+CD19, for example, is expressed on the surface of B cells, which play a central role in antigen presentation and are precursors to the cells that produce autoantibodies in immune-mediated diseases. Building on this underlying causal human biology and leveraging experience from successful clinical programs, Bristol Myers Squibb is investigating CD19 targeted CAR T cell therapy for the treatment of immune-mediated and inflammatory diseases such as lupus and multiple sclerosis. The approach aims to ultimately “reset” the immune system by eliminating pathogenic immune memory through B cell depletion. This is particularly exciting because these classes of diseases are difficult to treat due to complex pathophysiology, resulting in a significant unmet need for new therapies.
+Advancing the manufacturing of CAR T cell therapy
+The complexity of producing and delivering
+CAR T cell therapies
+is unlike any other traditional biologic or medicine, since it involves using a patient’s own cells in a highly sophisticated and personalized manufacturing process. Scientists at Bristol Myers Squibb are working diligently to improve current manufacturing capabilities and to expand the boundaries of current scientific capabilities with novel “off-the-shelf” cell therapies.
+NEX T Platform
+Bristol Myers Squibb’s NEX T manufacturing platform has the potential to develop CAR T cell therapies in a shorter amount of time with increased product quality. The process is designed to encourage the growth of more uniform and potent T cells, which may prompt a deeper and more durable response in patients.
+“
+Making CAR T cell therapy available faster is of critical importance for those with diseases where time is of the essence. NEX T will reduce the amount of time it takes to produce these therapies, while improving our ability to scale up the process as we investigate CAR T cell therapy in additional disease areas.
+Anne Kerber, MD, senior vice president, head of Late Clinical Development, Hematology, Oncology, Cell Therapy (HOCT)
+”
+A new generation of CAR T cell therapies using this manufacturing process is currently being studied in the clinic.
+Allogeneic cell therapy
+Allogeneic or “off-the-shelf” CAR T cells are made from T cells of healthy donors rather than the patient’s own reprogrammed T cells. "One of the challenges with autologous CAR T cell therapy is that the therapy is made from the patient’s cells, and the quality of those cells is tied to the patient’s health. Allogeneic cell therapies take cells from healthy donors and engineer them into CAR T cell therapy that can be ready to deliver to patients with less manufacturing wait time than currently required,” says Foy. Allogeneic cell therapies require additional engineering because they must be able to evade the patient’s immune system; however, they offer enormous prospects regarding making CAR T cell therapy accessible to more patients faster.
+Cell engineering for next-generation therapies
+Advancing CAR T cell therapy requires new approaches to cell engineering. The first successful CAR T cell therapies were feats of incredible science. Now researchers look to improve upon and uncover new techniques to produce next-generation cell therapies that may have improved efficacy and better targeting. Multi-pronged engineering strategies are also being employed to overcome the suppressive
+tumor microenvironment (TME)
+to enable the treatment of solid tumors.
+Dual antigen targeting
+This strategy involves targeting two antigens in a single CAR T cell therapy and can help address target heterogeneity or low antigen expression often observed in cancer patients. Dual antigen targeting can be achieved using different engineering solutions, including tandem CARs and logic-gated CARs. Tandem CARs are a single CAR that can target two different antigens (either antigen can activate the CAR T cell). Logic-gated CAR T cells are highly complex and involve the integration of logic, or decision making, into their recognition and activation process. One example of this is the integration of ‘ IF/THEN ’ logic. In this case, a priming receptor is added to the CAR T cell and must first be activated to trigger the expression of a lytic CAR: ‘ IF ’ the priming target is present ‘ THEN ’ then the lytic CAR is expressed, leading to T cell activation and function. Researchers select priming targets that are expressed only on cancer cells, resulting in the sparing of healthy cells and killing of cancer cells. Employing an
+IF/THEN
+logic gate results in enhanced selective killing of tumor cells over healthy cells.
+For example, Bristol Myers Squibb’s tandem BCMA/GPRC5D-targeted
+investigational cell therapy
+targets both BCMA and GPRC5D in multiple myeloma with the goal of overcoming antigen variability on cancer cells.
+eTCR therapies
+While CAR T cell therapies are limited to protein targets that exist on the surface of a cancer cell, engineered T cell receptor (eTCR) therapies can recognize targets inside the cancer cell. With far more cancer-specific targets located within cancer cells as opposed to on the surface, this technology has the potential to broaden the application of cell therapy across cancer types.
+The field has seen incredible advancements in the past decade, but there remains a significant need to bring forth new options for patients that improve upon current care. Some patients are too ill to wait for personalized CAR T cells to be manufactured. Others need novel approaches that better target their cancer cells. Therapeutic approaches must keep pace with and outwit the complexity, heterogeneity and ever-changing nature of the most detrimental diseases to human health. Cell therapy has already made waves in hematologic malignancies.
+But the most exciting part? This is only the beginning.
+Related content
+Taking ACTioN: Learn more about our research to bring CAR T into autoimmune diseases >
+Science Firsthand: The pathway to drug discovery >
+Cell therapy resources >
+
+June 06, 2024
+© 2024
+Bristol-Myers Squibb Company

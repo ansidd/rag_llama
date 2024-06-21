@@ -1,0 +1,38 @@
+
+Science
+Redirecting immune cells to fight myeloma
+Bispecific antibodies can be developed to activate the immune system to fight blood cancer
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+December 05, 2019
+Our stories
+/
+Science
+As a modern class of therapeutics, antibodies continue to change the treatment landscape for cancer. Antibodies are naturally produced Y-shaped proteins whose “arms” grab hold of bacteria, viruses and other possibly dangerous cells while the “leg” recruits immune cells to destroy the invaders. Researchers have leveraged this ability of antibodies into a treatment approach called immunotherapy, in which antibodies, or pieces of antibodies, are designed in the lab to better recognize cancer cells as invaders and call in the immune system to kill them.
+Immunotherapy has proven successful, with many drugs approved over the past decade. Now researchers are trying to improve on that success by splicing together portions of two antibodies with distinct targets to create what’s known as a bispecific antibody. The hope is that two targets will be better than one.
+Bispecific antibodies may work two ways: either by blocking two pathways cancer cells use to thrive or by blocking one cancer pathway and simultaneously recruiting immune cells called T-cells to tumors.
+The concept of bispecific antibodies isn’t new (the idea has been kicked around since the 1970s), but interest has been renewed as the techniques to produce large quantities of these proteins have improved substantially over the past decade.
+As a result, researchers are now able to explore their potential to combat many different cancers. In fact, the U.S. Food and Drug Administration has already approved two bispecific antibodies, and more than 30 others are being tested in clinical trials.
+One cancer being tested is multiple myeloma, a disease that affects blood cells. Although researchers have made significant progress in the treatment of myeloma over the past decade, most patients will eventually relapse, meaning new therapies are in demand.
+“
+CAR T-cells and bispecific antibodies as single agents may offer new hope to patients with myeloma, but they also may provide the opportunity for new combinations with other novel targeted therapies under investigation.
+”
+Myeloma cells display a promising target for immunotherapy called B-cell maturation antigen (BCMA), which is found in 60 to 70 percent of multiple myeloma patients. So a new potentially successful bispecific antibody therapy might, for example, have one arm that binds to myeloma cells via BCMA and another that binds to T-cells, one of the immune system’s top cancer assassins. While typical antibodies that bind to just one target also recruit immune cells, they generally do not specifically bring in T-cells. A bispecific antibody with this ability is expected to have greater cancer-killing effects than conventional antibodies.
+BCMA is also used in another immunotherapy approach for myeloma called chimeric antigen receptor T-cells (CAR T) therapy. In this strategy, a patient’s T-cells are extracted, engineered in the lab to recognize and bind to BCMA, and then placed back into the patient. The goal is for CAR T-cells to home in on and destroy myeloma cells.
+CAR T-cells and bispecific antibodies as single agents may offer new hope to patients with myeloma, but they also may provide the opportunity for new combinations with other novel targeted therapies under investigation. Ultimately, the aim with both tactics, alone or in combination, is to cure myeloma, a goal that seems more and more possible with every scientific advance.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Cancer Research
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+One woman's account of living with ulcerative colitis >
+Doing R&D "differently" to transform treatment for serious diseases >
+
+November 01, 2023
+© 2024
+Bristol-Myers Squibb Company

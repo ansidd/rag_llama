@@ -1,0 +1,75 @@
+
+News & Perspectives
+Above and beyond: Our research returns to space
+A team of Bristol Myers Squibb scientists is once again sending experiments into space, where microgravity conditions better support protein crystallization. The tiny crystals they’re looking for could mean big things for patients.
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+March 07, 2023
+Our stories
+/
+News & Perspectives
+In the search for solutions for our patients, sometimes our scientists must think outside the box. For one team, their research has taken them beyond the boundaries of Earth and into space.
+This research started in the summer of 2018, when the company responded to a request for proposals from the Center for Advancement of Science in Space (CASIS), a non-profit organization and manager of the International Space Station National Laboratory (ISSNL). That research led to  our first mission in 2020 .
+Potential impact on patients
+The objective for our second mission is similar — identify the physical conditions that result in large, high-quality crystals in microgravity, which could lead to a better understanding of how to one day make some of our biologics medicines in crystal form. A crystallized therapeutic could have greater stability and a more concentrated dosing strength.
+For patients, that could someday lead to quick, at-home injections versus lengthy, periodic infusions in a hospital or treatment center. For drug makers, if a crystallized protein doesn’t require freezing or refrigeration for storage, and takes up less space, it could offer significant savings for supply chain, while also potentially reducing environmental impact.
+Salmon leads the preclinical sciences team at the IO-CT TRC, which develops cell therapies for blood cancers and solid tumors. Harrington reports into Salmon’s team as part of the cellular therapy preclinical biology team, which leads the in vitro characterization of the company’s CAR T cell therapies before they move on to clinical development.
+“Seeing our therapies go from the invention stage all the way into patients has been really exciting,” Harrington said.
+Salmon and Harrington built a friendly rapport following their lunch break in the kitchen, and Harrington found herself reaching out to Salmon for support during a particularly demanding project.
+“I went to Ruth and told her I needed help and she totally took me under her wing,” Harrington said. “She really stepped in and when I needed her, she always made time for me.” Eventually, a department restructuring resulted in Harrington reporting directly to Salmon, and the mentorship developed from there, Harrington said.
+The pair has worked on a number of projects together, including cell therapies in the areas of acute myeloid leukemia and myeloma, and both have leaned on and learned from each other along the way. Salmon and Harrington have both seen each other shine through their collaborations.
+“I think I've learned as much from Kim as she says she has from me,” Salmon said. “The way that she approaches problem solving and her exceptional leadership skills together with how she engages different stakeholders along the way, it really brings all the pieces of the puzzle together. I really appreciate the broad and open-minded approach that Kim brings to these scientific challenges.”
+Hear Ruth describe what she’s learned from Kim
+This view of protein crystals grown on the International Space Station in 2020 represents a successful experiment. These crystals grew larger and more uniformly than those grown in experiments on the ground.
+A team of our researchers from R&D and Global Product Development and Supply (GPS) divisions has been preparing for months for the big date — March 14. That’s when a Falcon 9 rocket will blast off from the John F. Kennedy Space Center in Florida, U.S., carrying a series of our experiments to the ISSNL.
+Seeking solutions among the stars
+The ISSNL provides an ideal microgravity environment for experiments that scientists can’t replicate on Earth. Our team’s work is funded by CASIS, a company research partner since 2017.
+“As our portfolio gets more complex, we have to come up with innovative ways to understand our compounds and solve problems,” said Robert Garmise, associate director in the company’s Materials Science & Engineering group, and leader of the company’s space station research project.
+“
+“At BMS, we’re not constrained to the bounds of Earth and conventional technologies and environments to answer questions and develop the best quality drug products for our patients."
+— Robert Garmise, Associate Director, Materials Science & Engineering
+”
+Floppy proteins become stable crystals
+Proteins are complex macromolecules with intricate structures that determine their function and what other molecules they bind to. The more we know about a protein’s structure, the more informed steps we can take toward designing drugs that can interact with it.
+Proteins are somewhat floppy, explained Garmise. A loose analogy would be to imagine proteins having the same stability and flexibility as a giant inflatable tube man at a car dealership. When you crystallize a protein, however, it locks into an ordered arrangement best suited for analysis via X-ray diffraction, which can help determine the individual protein’s structure.
+“If we have a core understanding of the 3D structure of a molecule, that gives us a model for the protein and enables drug companies to target drugs and help biochemists to find out how the protein works in the body,” Garmise said.
+But crystallizing a protein can be tricky, and requires extremely specific conditions as far as its pH level, salt concentration and temperature. The quality and size of the crystals are dictated by these conditions, and many proteins don’t crystallize well on Earth. Space-grown crystals, however, are typically larger and have fewer defects than those prepared on the ground.
+Space team member Tamar Rosenbaum, Associate Scientific Director, Materials Science & Engineering, examines a slurry of protein crystals that were successfully grown on Earth.
+What’s missing in space?
+The microgravity environment is missing a few things found in labs on Earth, but most importantly, gravity. Without gravity, you lose convection, the rise of warm, less-dense fluid above cold, dense fluid. These conditions reduce sedimentation, the molecules move more slowly, and temperature can be more precisely controlled. This means fewer crystal defects, enhanced crystal size and uniformity and improved diffraction.
+Our scientists have been conducting experiments in the lab to determine the best conditions to grow crystals in this environment. Christina Cuttitta, senior associate scientist, Molecular Structure and Design, Small Molecule Drug Discovery, has been screening thousands of the crystallization conditions in our Lawrenceville, New Jersey, lab for the past few months for the samples that are being sent to the ISSNL.
+“We want to identify the very unique set of conditions that promote a protein crystallization in space,” she explained. “This could take several thousand experiments to be able to identify that group of just three or four ingredients that will push the protein to crystallize.”
+“
+“I kind of relate it to cooking — we’re trying to identify a recipe that’s going to make something taste good or, in this case, make a protein crystallize.”
+— Christina Cuttitta, Senior Associate Scientist, Molecular Structure and Design
+”
+An increased commitment to research for patients
+This year, the team has expanded from four to seven scientists and is preparing more than triple the amount of experiments. Each member has coordinated with his or her manager to ensure time to focus on the project while maintaining their normal day-to-day responsibilities.
+“For everyone on this team, this work is in addition to our day jobs,” Garmise said. “We’re doing this because it’s fun, and because we have a passion for it.”
+Michael Little, senior scientist, Sterile Product Development, Drug Product Development, said, “This project is so intriguing to me because this is the next-level application for protein crystallization and it’s all about patients and improving their lives.”
+“
+“If we can develop a better drug product to make patients’ lives easier, that motivates me to make the extra time to work on this.”
+Michael Little, Senior Scientist, Sterile Product Development, Drug Product Development
+”
+Preparing for a scientific send-off
+Several team members are now in Florida at the Kennedy Space Center, prepping the experiments for turnover to their partner astronauts: Frank Rubio representing the United States and Sultan Alneyadi representing the United Arab Emirates. After the March 14 launch, the pair will conduct the experiments over 30 days on the ISSNL.
+Our scientists will be watching their experiments via a live feed with Rubio and Alneyadi, who will combine the compounds and proteins and monitor progress.
+When the mission is complete, our team will know the outcome of their experiments and have access to thousands of images and successfully grown crystals. They’ll harvest the crystals and send them to a third-party company for X-ray diffraction. Despite the extensive advance work, there is just as much to be done, if not more, after the launch.
+Literally a career high for our scientists
+For now, our scientists are excitedly counting down to blast-off.
+“To be able to see my work go up to space is a career highlight,” said Cuttitta, who is happily attending the launch this year after missing the 2020 launch due to the birth of her first child. “For someone who got a degree in biology and a degree in neuroscience and then moved to X-ray crystallography, I never in a million years thought that I would be asked to participate in a project that is going to take place in space.”
+Little, who was also part of the 2020 team, added, “Watching the scientists set up these experiments in microgravity is a pretty surreal thing to see. It’s been so cool to see the work continue and progress what we’ve been doing since the last launch.”
+For Garmise, his mind is already on mission No. 3.
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Related Content
+View all
+Shaping the Future of Drug Development with Space-based Protein Crystallization >
+Diamonds in the sky >
+
+August 25, 2023
+© 2024
+Bristol-Myers Squibb Company

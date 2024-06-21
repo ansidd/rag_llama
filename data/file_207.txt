@@ -1,0 +1,55 @@
+
+Toll-like receptors (TLR) 7 and 8 fact sheet
+News
+Media library
+Scientific media resources
+Toll-like receptors (TLR) 7 and 8 fact sheet
+About TLR 7/8
+A healthy immune response to pathogens  plays a key role in protection from infection.
+Toll-like receptors (TLR) 7 and 8 help detect the presence of certain pathogens in the body and help initiate and amplify both innate (nonspecific) and adaptive (specialized or specific) immune responses. 1,2
+These receptors in immune cells normally recognize single-stranded RNA (ssRNA) from pathogens (such as certain viruses) and activate various immune cells, resulting in  an immune response. 1,2
+TLR 7/8 and Inflammatory Diseases
+An
+uncontrolled or
+misdirected immune
+response
+by the body
+can contribute to the
+damage of otherwise
+healthy cells, resulting in
+immune-mediated
+diseases.
+Overactivation of
+TLR7/8
+contributesto
+inflammation that occurs
+in immune-mediated
+diseases. 1,3
+TLR7/8 can become
+overstimulated when
+the receptors recognize
+and are
+activated by
+ssRNA released by
+damaged tissue . 1,3
+Certain immune-mediated diseases, such as systemic lupus erythematosus,  are associated with
+defects in the body’s ability to eliminate cell debris  from tissue damage , which can activate TLR7/8 and further contribute to  the disease. 4
+TLR7 gain-of-function genetic variations may also be a driver for systemic  lupus erythematosus. 5
+Research Implications
+Researchers are investigating potential ways to prevent the activation of the TLR7/8 pathway by blocking the receptors with small molecule inhibitors. 6,7
+This inhibition may help in the treatment of a range of immune-mediated diseases, such as  lupus and other rheumatic diseases. 7
+At Bristol Myers Squibb, our investigation of immune pathways and receptors like TLR7/8 helps to deepen our understanding of disease and causal human biology and further our efforts to deliver meaningful solutions to patients with immune-mediated diseases.
+REFERENCES:
+Hayashi T, Gray CS, Chan M, et al. Prevention of Autoimmune Disease by Induction of Tolerance to Toll-like Receptor 7. Proc Natl Acad Sci U S A. 2009;106(8):2764-2769. doi: 10.1073/pnas.0813037106.
+Arpaia N, Barton GM. Toll-like Receptors: Key Players in Antiviral Immunity. Curr Opin Virol. 2011;1(6):447-454. doi:10.1016/j.coviro.2011.10.006
+Fillatreau S, Manfroi B, Dörner T. Toll-like receptor signalling in B cells during systemic lupus erythematosus. Nat Rev Rheumatol. 2021;17(2):98-108. doi:10.1038/s41584-020-00544-4.
+Shao WH, Cohen PL. Disturbances of apoptotic cell clearance in systemic lupus erythematosus. Arthritis Res Ther. 2011;13(1):202. doi:10.1186/ar3206.
+Brown GT, Cañete PF, Wang H, et al. TLR7 gain-of-function genetic variation causes human lupus. Nature. 2022;(605):349-356. doi: 10.1038/s41586-022-04642-z.
+Mussari CP, Dodd DS, Sreekantha RK, et al. Discovery of Potent and Orally Bioavailable Small Molecule Antagonists of Toll-like Receptors 7/8/9 (TLR7/8/9). ACS Med Chem Lett. 2020;11(9):1751-1758. doi:10.1021/acsmedchemlett.0c00264.
+Sreekantha RK, Mussari CP, Dodd DS, et al. Identification of 2-Pyridinylindole-Based Dual Antagonists of Toll-like Receptors 7 and
+(TLR7/8). ACS Med Chem Lett. 2022;13(5): 812–818. doi:10.1021/acsmedchemlett.2c00049.
+Download TLR 7/8 Fact Sheet
+
+January 10, 2024
+© 2024
+Bristol-Myers Squibb Company

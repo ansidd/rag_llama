@@ -1,0 +1,27 @@
+
+Our stories
+/
+News & Perspectives
+Research and Development
+Collection and Use of Real-World Data Continues to Grow Around the World
+August 27, 2019
+Conducting real-world data (RWD) analyses to generate real-world evidence (RWE) is a growing practice in the healthcare community. RWE provides helpful information that complements clinical trial findings and may help fill knowledge gaps related to how a medication is used in real-world medical settings. These data consist of de-identified patient-related data collected from various sources, including but not limited to, anonymized electronic medical records, claims databases, health surveys, and patient registries. The insights gleaned from these analyses are useful to various healthcare stakeholders. For provider and payer organizations, these data may inform a greater understanding of a medicine’s real-world effectiveness, safety, and cost; while healthcare practitioners may use the data in combination with randomized controlled clinical trials to help inform everyday patient treatment decisions.
+As interest in RWE continues to grow, the databases and research methodologies used to collect and analyze these data have become more sophisticated, both in the U.S. and in other countries, as healthcare researchers are gaining access to new, previously unavailable data. With these robust RWD sources, more insight-generating analyses can be conducted to help better inform healthcare decision making based on everyday patient outcomes. The use of RWE is also gaining the attention of and is currently being evaluated by regulatory agencies for potential use for labelling changes, supported either wholly, or in part, by RWE. For example, the U.S. Food and Drug Administration (FDA) created the
+FDA Real-World Evidence Program Framework
+to evaluate the use of RWE throughout the drug development process. Additionally, the European Medicines Agency (EMA) has recognized there are important questions that could potentially be investigated via RWD analyses, and has called for a
+learning healthcare system
+at the international level to help “realize the full potential of RWD.”
+However, it is important to remember that observational RWD analyses are subject to limitations. For example, they can only evaluate association and not causality. Additionally, given RWD are collected from within a given healthcare system or hospital that may have practice patterns that vary from others, analyses must be interpreted within the context of the healthcare system in which the data were collected. Further, the information routinely collected within a given system or country may include more or less clinical detail than another system, which requires researchers to thoughtfully consider all available data and how to best address the research question of interest.
+As the benefit of RWE stems from real-life clinical practice, and healthcare practices and patient demographics can vary from country to country, RWE can be relatable among providers in countries where the data was collected. Some countries have systematized data collection infrastructures, which means RWD analyses can include significant portions of the country’s population. For example, in the U.S., the Centers for Medicare and Medicaid Services includes a substantial number of Americans 65 and older; similarly, France has instituted a comprehensive RWD source that has the capability of producing analyses that represent some of the largest RWD studies in Europe.
+Interestingly, researchers from different countries are also collaborating to expand beyond country-specific RWE collected from their own localized analyses. For example, a Nordic study comprised of Sweden, Norway, and Denmark pooled data from health systems across all three countries’ national registries for a more comprehensive, regional analysis. A combined analysis such as this provides helpful insights regarding treatment options in regions consisting of several countries and reveals the potential benefit of multi-country RWE to provide relatable insights to a greater number of providers, regardless of the country in which they practice.
+The global expansion of RWD collection and use is a reflection of the growing trend among providers in applying RWE to everyday practice and highlights the important role RWE can play. While clinical trials remain the gold standard for evaluating the efficacy and safety of a treatment option, analyses of RWD complement clinical trial findings and can help fill knowledge gaps related to how a medication is used in real-world medical settings.
+*  Potpara TS, Lip GYH. Postapproval Observational Studies of Non-Vitamin K Antagonist Oral Anticoagulants in Atrial Fibrillation. Journal of the American Medical Association. 2017;317(11):1115-1116.
+**  Freedman B, Lip GYH. “Unreal world” or “real world” data in oral anticoagulant treatment of atrial fibrillation. Thrombosis and Haemostasis. 2016 116(4):587-9.
+related articles
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+March 30, 2021
+© 2024
+Bristol-Myers Squibb Company

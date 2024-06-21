@@ -1,0 +1,50 @@
+
+Science
+From hypothetical possibility to research reality: The innovation behind TYK2 inhibition
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+March 14, 2023
+Our stories
+/
+Science
+Bristol Myers Squibb has a long legacy of innovation. Throughout the company’s history, scientific breakthroughs have fundamentally changed research and treatment approaches, providing the potential to transform the lives of patients with high unmet needs.
+Bristol Myers Squibb’s pioneering research with tyrosine kinase 2 (TYK2, pronounced ‘tick 2’) is changing how scientists tackle the challenge of immune-mediated diseases. TYK2 is a naturally occurring enzyme in the body that has been shown to play a role in several immune-mediated diseases, such as psoriasis, psoriatic arthritis and lupus. TYK2 facilitates the signaling of key inflammatory cytokines involved in the development of these conditions.
+While the TYK2 enzyme was identified in 1990, for decades scientists were unsuccessful in achieving selective TYK2 inhibition. In other words, scientists were not able to identify properties of TYK2 that would reliably bond with a drug and allow the TYK2 enzyme to be modulated or “turned off.”
+Bristol Myers Squibb scientists, however, turned a hypothetical possibility into a reality in the lab and successfully achieved selective TYK2 inhibition. How? With groundbreaking medicinal chemistry, novel structure-based drug design and creative problem-solving throughout the discovery and development process.
+The breakthrough innovations: Broadening the approach
+Bristol Myers Squibb’s industry-leading discoveries and innovations began years ago, when company scientists were exploring methods to selectively inhibit TYK2.
+One of the first steps taken by Bristol Myers Squibb scientists was phenotypic screening, a tool to help identify molecules that are likely to cause a desirable effect in the body. But importantly, the team didn’t solely focus on TYK2. They broadened their approach by also evaluating molecules for their ability to inhibit the function of naturally occurring proteins such as interleukins 12 and 23 and interferons, which are known to be pathways leading to several immune-mediated diseases. In detective terms, the scientists looked for the suspect (TYK2)—but also checked the suspect’s key accomplices (pathways). Doing this helped the team identify molecules that inhibit three different proteins, one of which was TYK2.
+“What was exciting and perplexing was the potential to inhibit TYK2 not through the kinase active site, but through another domain of TYK2 known as the regulatory or ‘pseudokinase’ domain,” said Robert Plenge, MD, PhD, senior vice president and head of Discovery and Translational Sciences at Bristol Myers Squibb. “This was an uncharted territory because we knew of no reports of molecules that exhibited this activity.”
+The ongoing innovations: Targeting a regulatory domain
+Following this discovery, Bristol Myers Squibb scientists forged ahead and decided to take a first-of-its kind approach for TYK2: targeting the regulatory domain.
+Why? The team realized going after the regulatory domain would avoid inhibition of the other janus kinases (JAK-1, JAK-2, JAK-3; pronounced ‘jack’).
+Additionally, the team uncovered that TYK2’s regulatory domain was structurally differentiated from other regulatory domains found on JAKs, allowing the pursuit of molecules that would bind to it. Armed with this knowledge, scientists were able to further explore modulating TYK2 and its role in immune-mediated diseases.
+“Many efforts to target TYK2 have been unsuccessful because they did not use what is unique about its domains,” said Plenge. “It was this distinct regulatory domain, and the fact that our scientists leveraged this knowledge, that made this a breakthrough in the field.”
+The continuing innovations: Advancing the science
+What comes next for innovation in TYK2?
+More innovation, of course.
+Bristol Myers Squibb scientists brought innovation to existing solutions in advancing TYK2 research. As an example, the company was among the first to proactively use a chemical process, called deuteration, to stabilize the structure of a new molecule with the goal of increasing a medicine’s functional life in the body.
+Bristol Myers Squibb’s years of in-house knowledge and research continue to advance the company’s understanding of the science behind TYK2. This, in turn, is enabling the evaluation and development of molecules that may potentially make a positive impact on patient care for immune-mediated diseases.
+“As leaders in TYK2 innovation, we are focused on exploring this pathway to discover and develop novel molecules that may have potential across many different diseases,” said Jonathan Sadeh, MD, MSc, senior vice president of Immunology and Fibrosis Development at Bristol Myers Squibb. “Our deep expertise and industry-changing discoveries have unlocked the potential of TYK2, reinforcing how our transformational approaches may turn science into real-world solutions for people living with immune-mediated diseases.”
+Along the way, Bristol Myers Squibb scientists will surely run into roadblocks that try to block progress. But just as surely, as the team has done time and again, they won’t see those roadblocks as impediments.
+“Discovering and developing new medicines is a fascinating journey that requires deep scientific expertise, logic and artistry,” said Plenge. “While setbacks are inevitable, our scientists come to work each day ready to push through obstacles and drive toward breakthroughs that may reach people around the world and forever change their lives.”
+Robert Plenge, MD, PhD
+Executive Vice President, Chief Research Officer, Head of Research
+Robert Plenge, MD, PhD, is executive vice president, chief research officer and head of Research at Bristol Myers Squibb.
+Read Bio
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Science & Innovation
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Exploring pathways in immune-mediated diseases to advance patient care >
+Pioneering paths forward in immunology >
+BMS’ commitment to precision medicine for patients living with immune-mediated diseases >
+
+August 25, 2023
+© 2024
+Bristol-Myers Squibb Company

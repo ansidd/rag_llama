@@ -1,0 +1,36 @@
+
+Our stories
+/
+Science
+Research and Development
+Sustainability
+A recipe for sustainability: Bristol Myers Squibb scientists develop new class of reagents from citrus peels
+August 20, 2021
+When life gives you lemons, as the saying goes, make lemonade. Or, if you’re a Bristol Myers Squibb scientist, make a new, sustainable class of reagents.
+A team of scientists from Bristol Myers Squibb and The Scripps Research Institute did just that – inventing a series of powerful and versatile chemical reagents from humble citrus peels. The significance of this discovery earned the U.S. Environmental Protection Agency’s (EPA) prestigious Green Chemistry Challenge Award for 2021, and further advances a
+commitment
+at Bristol Myers Squibb to minimize the environmental impact of its operations.
+Why reagents matter
+Reagents are the ingredients used to induce chemical reactions. There are numerous kinds of reagents used in broad applications by scientists across different industries including the life sciences. Reagents derived from phosphate are of particular interest in the hunt for new medicines. DNA’s spiral ladder shape includes alternating sugar-like molecules called nucleosides joined by phosphate molecules which run up the ladder’s sides and hold the nucleoside units together. The reagents that scientists at Bristol Myers Squibb and Scripps developed enable the formation of synthetic versions of these natural linkages.
+“DNA and RNA are effectively long chains of sugar-derived molecules linked together by phosphate compounds,” said Executive Director, Chemistry Research, Martin Eastgate, who led the Bristol Myers Squibb research team. “What we developed is a series of reagents that we can use to make multiple synthetic versions, also known as analogues, of those phosphate linkages, enabling the formation and exploration of novel compounds to treat disease.”
+Reagents with a potential to selectively prepare DNA and RNA-like analogues, known as oligonucleotide drugs, play an increasingly important role in the search for new medicines. Oligonucleotides are an emerging class of medicines made with short sequences of DNA that carry genetic instructions designed to disrupt a disease. Producing these complex compounds, however, can come at a steep price in both cost-of-goods and for sustainability. Broadly speaking, thousands of kilos of raw materials are needed to make each kilo of a finished oligonucleotide compound.
+“
+This is technology that transcends the portfolio. It’s not about a single medicine. It’s about discovering new tools that may enable us to discover tomorrow’s medicines.
+Martin Eastgate
+”
+Green chemistry
+These new reagents can be made in fewer steps than traditional reagents, reducing the quantity of material needed and avoiding the byproduct waste produced. What’s more, these new reagents are more selective, enabling more efficient chemical reactions and the selective formation of single products (isomers) in these complex systems.
+Beyond these efficiencies, what makes this new class of reagents especially green is the source material. The invented compounds are made from limonene – oil derived from citrus fruit peels – a renewable resource that’s otherwise a waste product of agriculture with the added benefit of being cost-effective and readily available.
+“This is technology that transcends the portfolio. It’s not about a single medicine. It’s about discovering new tools that may enable us to discover tomorrow’s medicines,” Eastgate said.
+More information about the project is available from the EPA
+here .
+related articles
+ASPIRE: Our commitment to address health inequities in low- and middle-income countries >
+Our journey to reduce Scope 3 emissions >
+Identifying the optimal chemical reaction >
+Shaping the Future of Drug Development with Space-based Protein Crystallization >
+Augmented reality tools help keep production humming >
+
+August 20, 2021
+© 2024
+Bristol-Myers Squibb Company

@@ -1,0 +1,52 @@
+
+Science
+Five facts about real-world data
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+August 22, 2018
+Our stories
+/
+Science
+Real-world data (RWD) can help us further understand the effectiveness, safety and costs associated with a treatment option, potentially offering complementary insights to clinical trial findings.  On this page, you'll find information on RWD and links to additional Bristol Myers Squibb resources.
+1. RWD is reported and collected in real-world medical settings
+Real-world data (RWD) are health-related information reported and collected in real-world medical settings. These data are collected, de-identified and stored in a variety of sources to be later analyzed alongside similar data. RWD may provide new insights about a medication beyond what is available from a clinical trial alone.
+RWD analyses generate insights about a medicine’s effectiveness, safety and associated costs. These data may help explore additional research questions, complement clinical trial findings and fill knowledge gaps related to how a medicine is used in real-world medical settings. RWD may also be referenced in future investigational studies to increase efficiency and reduce costs.
+Additionally, RWD analyses are explored by regulatory organizations to monitor for and act on any unforeseen risks with medicines following regulatory approval. These data are also used to evaluate potential un-studied outcomes that may lead to improved patient care.
+However, not all RWD are collected and maintained in a way that provides sufficient reliability. The source and type of RWD may limit how results and endpoints can be applied to the overall patient population. RWD should not be used as stand-alone evidence for healthcare decision making. Please see additional RWD limitations below.
+2. Diversity and quantity in data sources provide robust information
+The diversity in data sources provides researchers with the ability to conduct a variety of real-world data evaluations on a range of topics. Different sources allow for different questions to be asked, not only offering diverse real-world data findings, but also adding to the knowledge gained from traditional randomized controlled clinical trials.
+RWD can be collected and stored in a variety of sources, such as:
+Electronic medical records
+Electronic health records
+Claims databases
+Health surveys
+Patient registries
+Health-related apps and mobile devices
+Social media
+When sources utilize the same collection methodology and details, their data can be pooled together to provide a greater set of information for analysis. This ability to appropriately pool data may lead to larger and more diverse patient group analyses that can complement the data collected from patient populations included in clinical trials. Appropriately pooling data can also increase the likelihood of researchers to identify rare safety events. However, not all RWD are collected and maintained in a way that provides sufficient reliability.
+3. RWD study design is key
+Real-world data are only as good as the data source and methodology used to analyze that data. When determining the right investigative approach for a RWD study, researchers start with the key questions they are looking to answer; typically, this is either tied to patient outcomes or to healthcare costs. Then, based on the information necessary to find a credible answer, appropriate data sources with the correct details, and without important information gaps that may impact findings, are selected. As a standard practice, RWD should be completely free of patient-specific identifying information and balanced across treatment arms to allow for drawing reliable conclusions.
+Well-conducted RWD studies should have the objectives, study design, methodology and various endpoints described in a formal protocol, with the data analysis plan described in advance, if possible. Robust RWD analyses typically use advanced statistical methods designed to address potential issues, such as confounding factors which are circumstances that affect the conclusion but are not understood at the time of drawing the conclusion. Failure to use appropriate methods can lead to RWD studies that generate incorrect or unreliable conclusions. For example, data with very low event rates can allow for conclusions that are not statistically significant and clinically confounding to be drawn.
+4. RWD has limitations
+Real-world data analyses have several limitations. For example, the source and type of data used may limit the generalizability of the results and of the endpoints. Observational real-world studies can only evaluate association and not causality. Due to these limitations, RWD analyses are not used as stand-alone evidence to validate the efficacy and/or safety of a treatment.
+5. RWD may help to inform healthcare decisions
+Real-world data analyses can be especially useful for:
+Provider & Payer Organizations : to increase their knowledge about the effectiveness, safety and costs associated with a treatment option.
+Healthcare Practitioners : to help inform the real-world implications of their treatment decisions.
+Patients : to help discussions with their healthcare professional about treatment options.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Research and Development
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Breathing new hope into pulmonary fibrosis research >
+Above and beyond: Our research returns to space >
+Our bold vision for multiple myeloma >
+
+February 08, 2024
+© 2024
+Bristol-Myers Squibb Company

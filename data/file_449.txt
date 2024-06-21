@@ -1,0 +1,35 @@
+
+Our stories
+/
+Science
+Rheumatoid Arthritis (RA)
+Using Biomarkers to Help Understand Rheumatoid Arthritis: A Q&A with Brian Gavin
+May 12, 2019
+Brian Gavin, Ph.D., Development Lead, Bristol Myers Squibb
+The medical community still has much to learn about the immune system and the management of autoimmune diseases such as rheumatoid arthritis, a condition where the body’s immune system attacks its own joints. Brian Gavin, Ph.D., Development Lead, Bristol Myers Squibb,
+shares his thoughts on how biomarkers may help offer a better understanding of the pathophysiology of rheumatoid arthritis,
+and how rheumatoid arthritis may behave differently in different patients.
+Bristol Myers Squibb has deep experience in researching autoimmune diseases like rheumatoid arthritis, and you personally have worked in this field for a number of years. Tell us a little bit about the impact of rheumatoid arthritis on patients and how the medical community’s understanding of it has changed.
+Rheumatoid arthritis is a destructive autoimmune disease driven by the effects of pathogenic autoantibodies and pro-inflammatory cytokines. It causes chronic pain, stiffness and swelling of joints. There are several genetic, non-genetic and environmental factors believed to contribute to the onset of rheumatoid arthritis. We’ve been learning more and more about each of those factors in recent years.
+People with rheumatoid arthritis produce antibodies that react with antigens made by their own bodies; these are called autoantibodies.
+Unlike in a healthy person where the initiation of the immune system is in response to infection and disease, in rheumatoid arthritis, immune cells, called T cells, influence the activation of another type of immune cell, called B cells, to produce antibodies. These autoantibodies play important roles in the development of rheumatoid arthritis. In rheumatoid arthritis, autoantibodies along with other drivers, mediate inflammation and cytokine release. The release of T cell–derived cytokines can lead to macrophage activation. Macrophage activation in the rheumatoid joint leads to further secretion of pro-inflammatory cytokines, including IL-1, IL-6, IL-8, and TNF-α, which all coordinate to drive further T-cell activation.
+The role of pro-inflammatory cytokines in rheumatoid arthritis is well known, and recent research has deepened our understanding of the role of pathogenic autoantibodies in disease. Two autoantibodies common in rheumatoid arthritis are rheumatoid factor (RF) and anti-citrullinated protein antibodies (ACPA), both of which have been well studied. They are found in 60-80% and 70-90% of rheumatoid arthritis cases, respectively.
+While RF has been an established severity factor in rheumatoid arthritis, new findings have shed a light on the role of ACPA in driving disease progression.   Since we are still learning about the role of ACPA in rheumatoid arthritis, it is important for physicians to be aware of this ongoing research.
+Why is knowing if a patient is positive for autoantibodies important?
+Rheumatoid factors and ACPA can be identified in a person’s bloodstream years before symptoms of rheumatoid arthritis present. Pathogenic biomarkers such as ACPA may be important diagnostically and prognostically for guiding personalized approaches. The test used to detect ACPA, for example, is called an anti-cyclic citrullinated peptide (anti-CCP) test.
+Patients who are positive for RF or anti-CCP+ may experience worse overall outcomes, including joint damage. If physicians can identify that patients are positive for these key drivers of rheumatoid arthritis, they can better anticipate what their experience may be like, an important step toward offering personalized approaches. Bristol Myers Squibb’s research focuses on better understanding the role of biomarkers like these in rheumatoid arthritis diagnosis and management.
+Where can people learn more about key drivers of rheumatoid arthritis?
+Bristol Myers Squibb, working with experts in the field, has launched an educational initiative for rheumatologists called
+Rheumatoid Arthritis, Redefined . This initiative provides information on the evolved understanding of the drivers of rheumatoid arthritis and the role of biomarkers, such as RF and ACPA, as effectors of disease.
+We’re also encouraging people to watch this simple animated video to learn more and spread the word.
+More information about our efforts, including downloadable resources and videos, are available
+here .
+related articles
+Destination: The Impact of Precision Medicine in Disease Management for People with Immune-Mediated Diseases >
+Meet Severyne >
+Our precision-focused approach in rheumatoid arthritis and beyond: a Q&A with Dr. Sean E. Connolly >
+Rethinking the role of pathogenic drivers in rheumatoid arthritis >
+
+October 07, 2020
+© 2024
+Bristol-Myers Squibb Company

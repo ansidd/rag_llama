@@ -1,0 +1,61 @@
+
+Science
+Getting to know genomics: A Q&A with Saumya Pant
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+October 22, 2020
+Our stories
+/
+Science
+Genomics is a field of research that may hold the key to many secrets of the human body and disease. At Bristol Myers Squibb, researchers like Saumya Pant, director of Clinical Genomics and Genetics, work to unlock these answers. Hear from Saumya on how the company is utilizing genomics to discover novel treatment options, in hopes of moving toward the future of precision medicine.
+Saumya Pant, Director of Clinical Genomics and Genetics
+Q: What is genomics?
+A: Genomics is the study of the structure and function of the genome, or the genes of an organism. The genome is a unique blueprint which determines cellular structure and function – disruptions or errors in the genome can result in the development of disease. Studying the genome helps researchers better understand health and disease conditions.
+Large genomic data cohorts provide a comprehensive picture of the disease and its sub-types, including genes and pathways disrupted or associated with disease. Working from this data, scientists are better able to identify patient segments most likely to benefit from specific treatments.
+Individual genomes can provide important information to help tailor potential treatments or to help avoid adverse effects, part of a concept known as precision medicine. Researchers across Bristol Myers Squibb are exploring new frontiers and reimagining the future of precision medicine, and the genomics team is no different. Scientific advancements are enabling the alteration or correction of the genome through genomic technologies such as CRISPR (clustered regularly interspaced short palindromic repeats) and enabling tailored treatment options such as CAR T (chimeric antigen receptor T cell) therapies.
+Q: What can you tell us about the genomics team at Bristol Myers Squibb?
+A: I feel very lucky to work alongside an incredibly talented team who inspire me each day. At Bristol Myers Squibb, genomics is a critical part of our translational research efforts, and we work with teams spanning the earliest stages of discovery to development, as well as computational research and regulatory. We are responsible for developing genomics-based biomarker strategies and executing comprehensive and rigorous biomarker analyses on our clinical trial cohorts. The genomic datasets we develop also help to establish drug mechanisms of action and identify optimal dosing options.
+The scientists on the genomics team have broad therapeutic area expertise and are focused on answering key scientific questions to make an impact for patients. Our team has made significant strides in generating cutting-edge genomics methodologies and adapting them for clinical applications. Some of these successes include utilizing  single cell sequencing  from clinically applicable core biopsies – a first for the field. Other successes include genomic spatial profiling and ctDNA (circulating tumor DNA) fluid biopsies for early disease detection and monitoring.
+Genomic Spatial Profiling
+provides highly multiplexed gene expression profiling in the context of spatial coordinates.
+Circulating tumor DNA (ctDNA) fluid biopsies
+allow researchers to look at tumor DNA from a blood sample, potentially allowing for genomic profiling without a more invasive tissue biopsy.
+We are leading the field in many of these disciplines by developing technology and analytics and contributing to test quality and standards consortia. There is a rich and well-established genomics community at Bristol Myers Squibb and teams work collaboratively, both internally and externally, to share experiences and learnings.
+Q: Can you explain how genomics is utilized in a discovery setting?
+A: Genomics is a critical value driver for pharmaceutical R&D, as we know therapies with a genetic basis of action are more likely to succeed through development. Utilizing genomic disease profiles and insights from our clinical trials, we can help identify novel genes and pathways implicated in disease development and treatment resistance or response. Bristol Myers Squibb leverages and actively sponsors the development of large genomics datasets from population genetics consortia such as the UK Biobank (UKB) and FinnGen, as well as disease focused consortia and academic research collaborations like the Myeloma Genome Project, AACR Project Genomics Evidence Neoplasia Information Exchange (GENIE),
+International Immuno-Oncology Network (II-ON), Parker Institute for Cancer Immunotherapy (PICI) and the Cancer Research Institute (CRI).
+Further, we partner with real world data and evidence providers like the Flatiron Health Network to leverage clinical insights for discovery and development.
+Reverse translation
+in R&D refers to the feedback loop with clinical research insights leading to new discovery insights and target ideation.
+Multi-omic datasets
+include data from multiple "omes" including the genome, proteome (study of proteins), transcriptome (study of RNA transcripts) and epigenome (study of DNA modifications) allowing for a comprehensive view of a person's disease or health.
+Genomic datasets from clinical trial samples yield actionable insights leading to new drug discovery efforts in a process called reverse translation. These new discovery targets are further validated for prevalence with orthogonal multi-omic datasets. Artificial intelligence (AI) and machine learning algorithms are increasingly utilized to analyze multi-omic real world datasets to identify and prioritize potential research targets.
+In vitro
+studies are done outside of a living organism, while
+in   vivo
+studies are done inside a living organism.
+Additionally, drug discovery utilizes genomics at multiple stages for profiling preclinical cell culture studies, in vitro and in vivo animal model profiles for target validation, recognizing target mechanisms of action or resistance, biomarker identification and evaluating novel combination strategies. From a technology perspective, discovery efforts are progressing from bulk genomics profiles (genomic analyses of tissue regions) to more precise and informative single cell sequencing data and spatial transcriptomic data. This enhanced cellular and spatial understanding of disease and drug activity are providing crucial information for drug discovery.
+Q: What can you tell us about Bristol Myers Squibb’s partnership with UK Biobank (UKB)?
+A: We are very excited about this collaboration. Bristol Myers Squibb is currently working with UKB, as well as eight pharmaceutical industry partners in a pre-competitive industry collaboration, to sequence the exomes of 500,000 UKB enrollees. We, along with our partners, are looking at electronic health records in concert with genomic and rich phenotypic data, while also being able to follow-up with them for information on treatment outcomes and other disease or lifestyle factors. This large-scale data allows us the opportunity to interrogate the genetic architecture of disease, nominate and characterize novel drug targets and monitor enrollees longitudinally.
+Importantly, this collaboration is open access, meaning the larger research community, including industry and academia, can access and make use of these data – even if they aren’t directly involved in the sequencing consortium.
+Q. How has genomics already impacted drug discovery, and how do you hope this will continue in the future?
+A: Genomics has already delivered on the promise of altering the healthcare industry in ways that impact many of us. As one recent example, the rapid sequencing of the COVID-19 viral genome within just weeks of the pandemic was critical for the rapid development of diagnostic tests, as well as investigational therapies and vaccines. Recently, researchers have begun to look at the genomic footprint of patients, in combination with their response, to better understand the underlying pathology of the virus.
+In addition, targeted drug development rooted in genomic findings have been incredibly influential in developing medicines for genetic diseases across therapeutic areas. Just two examples –  targeting the CFTR mutation in cystic fibrosis patients, and the Philadelphia (Ph) chromosome in chronic myeloid leukemia (CML), exemplify how the use of genomic drug discovery has transformed outcomes for many by guiding the development of targeted therapies.
+Genomics will continue to be a critical driver as we strive to enhance patient outcomes through the development of new therapies and precision medicine strategies. Our partnership with the PICI and CRI on the Tumor Neoantigen Selection Alliance (TESLA) initiative advances our knowledge on neo-antigens – small markers that arise from cancer mutations – and helps us understand which the immune system are most likely to recognize. Separately, in rheumatoid arthritis, we’re advancing research showing that patients with specific genetic markers may be more likely to benefit from a particular therapy.
+Having well-developed genomic datasets behind each potential drug candidate will impact every stage of a medicine’s development – from identifying the most appropriate patient population to managing the side effect profile and beyond. Ultimately, the knowledge we gain from increased investment in genomics will help scientists and healthcare professionals working across all types of diseases, from early research through clinical practice.
+It is my hope that our strong investment and talent in genomics will lead to more informed decisions, designed with the patient in mind, to bring forward new therapeutic options that will make the biggest impact for patients – certainly no small task, but our scientists are up for the challenge.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Research and Development
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Hacking R&D: The Role of Artificial Intelligence  >
+Single Cell RNA Sequencing in R&D >
+
+November 06, 2023
+© 2024
+Bristol-Myers Squibb Company

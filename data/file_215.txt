@@ -1,0 +1,23 @@
+
+Scientific media resources
+Understanding Radiopharmaceutical Therapy (RPT)
+What is radiopharmaceutical therapy?
+Despite therapeutic advances, there remains a high unmet need for new and innovative cancer treatments. RPT is uniquely positioned to be both a diagnostic and therapeutic, offering a new modality for patients living with cancer.
+What is the goal of RPT research?
+RPTs offer a precision approach to patient treatment, delivering radioisotopes to tumors intravenously. By binding to tumor cells, RPTs bring radiation directly to cancer cells where they can induce cancer cell death and spare healthy cells.
+Radioisotope payload is extremely potent
+RPT kills cells regardless of cellular internalization
+RPTs can avoid drug resistance mechanisms (e.g. drug efflux, altered trafficking)
+Precision medicine with RPT imaging allows for better patient selection
+RPTs utilize stable linker thus minimizing premature release of payload
+Molecular targeting enables the investigation of radionuclide therapy in various tumor types
+Current RPT treatment options for gastroenteropancreatic neuroendocrine tumors (GEP-NETs) have shown significant clinical benefit, however, while most patients experience disease control in clinical treatment with currently available options, patients will invariably progress. Most continue to live for at least two years without any approved treatments. There is an area of high unmet need for patient treatment options.
+The next generation of RPTs
+Alpha emitters are the next generation of therapeutic radionuclides and could be the preferred radionuclide over beta emitters for the treatment of solid tumors due to favorable chemistry and decay properties. Alpha radiation causes direct, irreparable double-stranded DNA breaks more frequently than beta radiation due to its higher linear energy transfer, while sparing surrounding healthy tissue due to its shorter path length.
+Our lead programs leverage Actinium-225 (Ac225), a preferred alpha emitter. Ac225 may enhance RPT results, enabling efficacy in tumors with lower target expression and overcoming resistance to beta radiation, creating potentially better outcomes for patients.
+Through RayzeBio, a Bristol Myers Squibb Company, Bristol Myers Squibb is taking an innovation-leading position in the development of actinium-based RPTs to transform patient outcomes in areas with high unmet need.
+Download Understanding Radiopharmaceutical Therapy (RPT) Fact Sheet
+
+May 24, 2024
+© 2024
+Bristol-Myers Squibb Company

@@ -1,0 +1,52 @@
+
+Our stories
+/
+Science
+Cancer
+Adapting clinical trial designs to advance cancer research
+October 15, 2018
+Clinical trials are one of the most fundamental activities in cancer research, but in the age of precision medicine, the traditional model has limits. In order to more efficiently evaluate investigational therapies – particularly
+combination
+therapies – and use
+biomarkers
+to help match the right treatments with the right patients, researchers are rethinking their approach to trial designs.
+To help showcase how innovative trial designs can help bring personalized treatments to more patients, Jason Luke, M.D., Assistant Professor of Medicine at the University of Chicago, and Tim Reilly, Ph.D., Head of Oncology Early Asset Development at Bristol Myers Squibb, sat down to talk about how  Immuno-Oncology  (I-O) clinical research is transforming and why new research approaches are needed.
+What is the traditional model for clinical trials, and why is there a need for more innovative approaches?
+Jason Luke (JL):
+In a standard cancer clinical trial, we typically recruit a set amount of patients to test how a single treatment (e.g., a new drug) or combination performs versus a standard treatment. Although this model has allowed us
+to test thousands of therapies in cancer research, it poses a couple of issues.
+First, the pace of innovation is fast and there are a significant number of new molecular targets and biomarkers under investigation. Testing all of these through standard trials would take years and limit exploration of emerging areas of science. In addition, standard trials often don’t tell us  why  certain patients respond – or do not respond – to certain therapies. As a physician, this is one of the most critical pieces I need in order to optimize or potentially ‘personalize’ treatments for my patients. By pursuing novel   trial designs, not only can we test more therapies in a single trial, but we can also set ourselves up to learn more about certain biomarkers that predict how patients may respond to investigational treatments.
+What do researchers need in order to design these types of trials?
+Tim Reilly (TR):
+Before we even begin to conceptualize a novel trial, we focus on
+translational research  to guide a hypothesis based on our understanding of tumor and immune biology. For instance, we’ve done a significant amount of research on the tumor microenvironment to understand various immune pathways and tumor evasion mechanisms, and how these pathways differ within groups of patients, or even individual patients over time. We also try to identify indicators of response to help establish which groups of patients are more likely to benefit, or are not likely to benefit, from investigational combinations.  Together, these learnings often serve as the foundation for innovative clinical designs.
+The
+tumor microenvironment
+refers to the network of cells and structures that surround a tumor, including stroma, the connective cells and tissue, and immune regulatory cells, such as Tregs (regulatory T cells) and antigen presenting cells.
+Can you share an example of a new or innovative clinical trial design?
+JL:  A really great example is a Bristol Myers Squibb-sponsored study that I’m leading called ADVISE ( AD apti V e Biomarker Trial that
+I nform S E volution of Therapy), which evaluates real-time, biomarker-driven patient selection for a range of I-O-based combinations. The interesting thing about
+ADVISE
+is that the study is designed in a way that allows us to perform prospective analyses on pre-treatment samples to assess the presence of certain biomarkers. From there, we can tailor each patient’s treatment combination based on their unique biomarker profile, allowing us to more closely mirror how patients are treated in the clinical setting.
+Learn More about the ADVISE Trial Design
+TR:
+In addition to ADVISE, Bristol Myers Squibb is also sponsoring other platform type trials, including the platform known as FRACTION ( F ast
+R eal-time
+A ssessment of
+C ombination Therapies in
+I mmuno- On cology). The two trial concepts are very similar in the sense that multiple combinations are evaluated in a single study. But in the case of FRACTION, we are asking clinical questions around various combinations while analyzing biomarker data retrospectively to help us better understand the biological bases for responses – or lack thereof – to an investigational treatment combination. In addition, if a patient progresses, we can enroll them into another regimen within the trial. We can also add new combinations to the study on a rolling basis and pursue promising areas of science as they arise. Overall, this adaptive design gives us the flexibility to quickly assess and compare various treatment options in different stages of disease, which increases the opportunities for learning in a single study.
+How do you see trial designs evolving in the future?
+TR:  I think clinical trials will evolve in the same way pharmaceutical research and cancer treatment has over the past 30 years. Instead of a ‘one-size-fits-all’ approach, we’ll have ‘precision trial designs,’ meaning there will be a multitude of different trials using specific mechanisms and combinations of mechanisms in pre-defined patient segments that are tailored to specific hypotheses around those patients’ needs. This doesn’t mean that the traditional method will become obsolete, but I do think we’ll begin to rely on more innovative designs and apply the insights from focused clinical questions more broadly to larger groups of patients.
+Learn more about how FRACTION is simplifying the clinical trial process.
+JL:  In medicine, innovation has always been about challenging the status quo – and while we typically think of that in terms of early research, it’s also true for the practical experience of patients and physicians in this dynamic and rapidly evolving I-O landscape. However, no matter what model we use to advance clinical research in the future, the end goal of our efforts remains the same – to get new, groundbreaking treatments to patients as quickly and safely as possible.
+For more information on FRACTION, ADVISE or other ongoing clinical trials, visit
+www.bmsstudyconnect.com .
+related articles
+Scientific American Series: Emerging Trends in Immuno-Oncology >
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Our multiple myeloma story: Collaboration drives progress >
+'It was something I'll never forget' >
+
+February 23, 2021
+© 2024
+Bristol-Myers Squibb Company

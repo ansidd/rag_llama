@@ -1,0 +1,36 @@
+
+Science
+Understanding the potential of LAG-3
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+May 18, 2021
+Our stories
+/
+Science
+Targeting LAG-3 in combination with other immune checkpoints may be a key strategy to improving anti-tumor immune response in certain cancers – but how does it work?
+For over a decade, Bristol Myers Squibb has been at the forefront of immuno-oncology, an area of research that works by helping the body’s own immune system fight cancer. Once an approach that was met with skepticism, immuno-oncology research has since revolutionized what we understand about tumors and how they interact with their environment, and has led to the development of medicines that have allowed some patients to live longer with certain cancers.
+Immune checkpoints are parts of the immune system that help ensure that immune cells, such as T cells, attack unhealthy or foreign cells, and not healthy ones. Cancer cells try to find ways to manipulate immune checkpoints in order to keep the immune system from attacking them.
+Investigating additional immune checkpoints – and how they may work together – has the potential to lead to new treatment approaches for more patients.
+LAG-3 is one such checkpoint. Initially discovered in the 1990s [i] , LAG-3 is a protein found on the surface of certain T cells. LAG-3 controls the activation and growth of the effector T cells and regulatory T cells on which it can be found.
+When T cells are exposed to cancer for an extended period of time, they become exhausted and lose their ability to function appropriately. This exhaustion allows tumors to avoid attack from the immune system and grow unchecked.
+Because of its role in T cell exhaustion, LAG-3 became a target of study in oncology. When exhausted, T cells express more LAG-3 on their surface. Preclinical studies suggested that inhibiting LAG-3 allowed T cells to regain their ability to kill cancer cells.
+But LAG-3 may not be solely responsible for T cell exhaustion. Preclinical studies have also shown that targeting LAG-3 in combination with other potentially complementary checkpoints, such as PD-1, may be a key strategy to enhance the immune response against tumors.
+Bristol Myers Squibb used its deep understanding of tumor biology, the tumor microenvironment, and the immune system, as well as clinical and translational data, to identify multiple tumor types where LAG-3 biology was especially relevant.
+Using this knowledge, Bristol Myers Squibb is investigating the approach of targeting novel and potentially complimentary checkpoint pathways, such as LAG-3 and PD-1, to help meet the goal of transforming patient’s lives through science.
+[i] Triebal, et al. Journal of Experimental Medicine. LAG-3, a novel lymphocyte gene closely related to CD4. Available at  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187904/ . Accessed May 6, 2021.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Cancer Research
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+November 01, 2023
+© 2024
+Bristol-Myers Squibb Company

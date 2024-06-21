@@ -1,0 +1,39 @@
+
+Immunology patient resources
+Understanding key psoriasis outcome measures
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+March 23, 2022
+Patients & caregivers
+/
+Patient resources
+/
+Immunology patient resources
+The severity of psoriasis and its impact on a person’s daily life are important for healthcare providers and patients to understand as they work together to determine a disease management plan. Several different measures are used to evaluate the physical, emotional and mental impact of psoriasis, as well as how effectively a medicine treats the disease.
+Below are definitions for some common measures used to assess both disease severity and how psoriasis may improve after receiving treatment. Some of these measures are used in clinical studies to help evaluate the effectiveness of potential new psoriasis treatments.
+Clinical Measures
+These measures are assessed by a physician and focus on the severity of disease and/or the efficacy of treatment:
+Body Surface Area (BSA) -  a measure of how much skin is impacted by psoriasis and can be used to track an individual’s psoriasis over time. For context, one handprint is equal to approximately 1 percent BSA.  Involvement of <3% BSA is considered mild, 3%-10% BSA is considered moderate and >10% of BSA is considered severe psoriasis.
+Psoriasis Area and Severity Index (PASI) –  evaluates psoriasis disease activity, taking into account how much of the BSA is affected and the severity of psoriasis lesions. PASI 75 is often used as a primary endpoint in clinical studies to measure improvements in the overall extent and severity of disease, which is one way to measure success of a treatment. Achievement of PASI 75 indicates a 75 percent improvement from baseline, or the start, of the clinical study.
+Static Physician’s Global Assessment (sPGA) –  evaluates the severity of the disease at a given point in time, with psoriasis lesions evaluated for thickness (also referred to as induration), redness (also referred to as erythema) and presence of white/silvery scales on the skin (also referred to as desquamation). These characteristics are measured on a scale from 0 to 5, with 0 indicating “absent” and 5 indicating “severe.” sPGA 0/1 is often used as an endpoint in clinical trials to measure the effectiveness of a treatment, indicating clear or almost-clear skin.
+Scalp-Specific Physician's Global Assessment (ss-PGA) –  an sPGA measure to evaluate the severity of the disease specifically associated with the scalp. ss-PGA 0/1 is often used as an endpoint in clinical trials, indicating a clear or almost-clear scalp.
+Physician Global Assessment - Fingernails (PGA-F) –  an assessment to evaluate the severity of psoriasis specifically associated with fingernails. PGA-F 0/1 can be used as an endpoint in clinical trials, indicating fingernails are clear or almost-clear of psoriasis.
+Patient-Reported Measures
+These measures are self-reported using questionnaires that capture a patient’s own assessment of their psoriasis, satisfaction with treatment or impact on their quality of life. While there are different variations of these self-tests, below are examples of patient-reported measures:
+Psoriasis Symptoms and Signs Diary (PSSD) –  includes 11 questions to assess the impact and severity of signs and symptoms of psoriasis (e.g., itching, pain, skin tightness, skin redness) in the past 24 hours or 7 days. Questions are scored on a 10-point scale to assess frequency and severity, with 0 associated with absent and 10 associated with worst imaginable. Higher scores indicate more severe disease.
+Dermatology Life Quality Index (DLQI) –  measures impact of psoriasis over the previous week using 10 questions on how the disease impacts different areas of life, such as working/studying, sport/leisure activities, daily activities, interpersonal relationships and physical and emotional well-being. Questions are scored on a 4-point scale to assess severity, with 0 associated with no impact and 4 associated with a large impact. The higher the score, the more quality of life is considered impaired.
+Patient Benefit Index (PBI) –  evaluates the success of patient objectives throughout treatment with questions on 23 different therapy goals across the following areas: reducing impairments due to therapy, having confidence in healing and reducing social, psychological and physical impairments.
+Work Limitations Questionnaire (WLQ) –  measures the disease and treatment impact on one’s job and can assess lost work productivity, with 25 questions related to time management, physical demands, mental-interpersonal demands and output/productivity.
+Scalp-Specific Itch Numeric Rating Scale (NRS) –  a single-item questionnaire that measures the worst level of scalp itching over the past 24 hours.
+Read this
+psoriasis fact sheet
+to learn more about this serious immune-mediated disease.
+Bringing the science of cell therapy into autoimmune diseases >
+Leading the charge against eosinophilic esophagitis >
+Advancing lupus research to address unmet needs >
+
+January 11, 2024
+© 2024
+Bristol-Myers Squibb Company

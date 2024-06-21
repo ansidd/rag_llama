@@ -1,0 +1,38 @@
+
+Translational science and biomarker research
+Biomarkers in immuno-oncology
+Leveraging biomarkers and diagnostics in personalized medicine is becoming increasingly important in the fight against cancer. Bristol Myers Squibb is pioneering research to better understand cancer biology and its intersection with the immune system.
+Exploring immune biomarkers
+Learn more about the potential role of immune biomarkers in Immuno-Oncology.
+We are investigating a number of different biomarkers that may help match the right patients with the right treatments at the right time. Select the biomarker name for more information.
+Tumor antigens
+Biomarkers indicative of tumor mutations and neoantigens:
+TMB
+|
+MSI-H/dMMR
+|
+Neoantigens
+Inflamed tumor
+Biomarkers indicative of an inflamed tumor:
+PD-L1
+|
+PD-L2
+|
+Inflammation Gene Signatures
+Immune suppression
+Biomarkers indicative of tumor immune-system evasion:
+LAG-3
+|
+IDO
+|
+Tregs
+|
+MDSCs
+Host environment
+Biomarkers indicative of host environment:
+Microbiome
+| Germline Mutations
+
+January 10, 2024
+© 2024
+Bristol-Myers Squibb Company

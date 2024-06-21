@@ -1,0 +1,24 @@
+
+Our stories
+/
+Science
+Immunotherapy
+Biomarker research
+How Improving Our Understanding of Cancer Biology Can Help Inform Which Patient Might Respond to Immuno-Oncology Treatment
+April 03, 2017
+Bruce Car, Ph.D., ‎Vice President and Head, Translational Sciences at Bristol Myers Squibb
+Every day at Bristol Myers Squibb, our teams conduct translational research to further our understanding of cancer biology, advance the science of Immuno-Oncology (I-O) and possibly identify which patient populations may be more likely to derive benefit from certain treatments.
+One important area of our translational efforts is biomarker research. Biomarkers are signals that may be used to measure different aspects of disease or response to disease treatment in a patient’s body. Biomarkers may have the potential to be used to understand tumor biology as well as give insight into patient safety. Thoughtful application of biomarkers in clinical trials can help determine their effectiveness and potential to eventually help guide treatment selection specific to each stage of therapy.
+The first step in biomarker research is the identification of novel molecular targets – such as genes, DNA, proteins or other biological structures – that promote an environment in which cancer cells thrive.
+Initially, we attempt to explore modifying these molecular targets in tissue culture systems. To further validate a specific target, we evaluate tissue samples biopsied from the tumors of different patients with the same cancer type. If we can identify common molecular targets and then keep them from doing their jobs, we could potentially slow or halt the growth of cancer cells.
+Once we’ve identified these targets, we can then pursue a variety of methods to influence the body’s immune system to either destroy the cancer cells, or inhibit their growth. In the future, we may also choose to study a combined approach - combining a therapy that is designed to inhibit tumor growth with a therapy that is designed to direct the body’s immune system to attack the tumor. We may also combine different immuno-oncologic treatments together.
+One of the cutting-edge advances in biomarkers is the study of how many and how frequently DNA mutations are present in a tumor sample. Some tumors have many genetic mutations, which we call a high tumor mutation burden (TMB), while others have fewer of these genetic changes. Another biomarker of increasing importance is the collection of genes known as the Tumor Inflammation Signature (TIS). Evaluating TMB alone and together with other known biomarkers, such as the PD-L1 status and TIS, help inform hypotheses about treatment options. We believe that through using combinations of biomarkers such as TMB, PD-L1 and TIS, we will identify the maximum number of patients who will benefit the most from immuno-oncology treatment.
+In Translational Medicine, we study many biomarkers that we think have the potential to inform how to select a particular therapy for treatment, the dose of that treatment, and potential combinations.
+We are actively progressing our understanding of biomarkers in our own laboratories, through our clinical research and in conjunction with academic research centers. At Bristol Myers Squibb, we are eager to continue applying our growing understanding of biomarker research to the development of new medicines and investigate ways to better predict who will benefit from these medicines.
+related articles
+Biomarkers in Immuno-Oncology >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+
+May 13, 2021
+© 2024
+Bristol-Myers Squibb Company

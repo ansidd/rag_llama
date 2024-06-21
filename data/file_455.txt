@@ -1,0 +1,48 @@
+
+Science
+Get to know JAK2 and its role in myelofibrosis
+Most patients with myelofibrosis have a mutation in this cellular on-off switch
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+February 08, 2021
+Our stories
+/
+Science
+For researchers studying myelofibrosis, the JAK protein family doesn’t live up to its original name. Initially nicknamed “Just Another Kinase,” the Janus Kinase 2 protein has been identified as one of the key players in myelofibrosis, a rare bone marrow disorder that disrupts the normal production of blood cells.
+“Myelofibrosis is a serious and often debilitating disease for which there has only been one approved treatment option for nearly a decade,” said Dr. Claire Harrison, a hematologist at an NHS Foundation Trust in London.
+“It took us a long time to realize a mutation in JAK2 was responsible for the majority of patients with myelofibrosis, but once it was discovered, it opened a whole new area of exploration in the field.”
+Harrison and others are still uncovering the mysteries behind JAK2, but what they already know is changing how doctors treat patients with myelofibrosis.
+First impressions of the JAK2 gene mutation
+JAK2 was first identified 30 years ago in a shotgun approach to identify anything resembling a family of enzymes known at the time for prompting cell growth and development. The researchers found JAK2 in a line of perpetually youthful cells that give rise to blood cells. “JAK2 is important for the production of healthy blood cells,” explained Harrison. In a mouse model, for example, if you remove the JAK2 gene, the mouse cannot produce enough blood cells and will not survive.”
+Since then, plenty more has been learned about its role in developing blood cells. In 2005, researchers discovered that about half of patients with myelofibrosis had a specific mutation of JAK2—V617F.  Furthermore, they discovered that those with the V617F mutation did not live as long after diagnosis as those without that particular genetic mutation.
+“The V617F mutation is by far the most common mutation seen in myelofibrosis,” said Harrison. “JAK2 molecular testing has become standard in the work up and diagnosis of myelofibrosis and other myeloproliferative diseases.”
+Since the discovery of the V617F mutation, researchers have learned how this mutation affects the JAK2 protein and how that, in turn, may affect blood production.
+The name “V617F” explains how the mutation changes the composition of the JAK2 protein. The mutation switches out an amino acid called valine—the “V” in “V617F”—at the 617th position in the protein with another amino acid called phenylalanine, which scientists represent with an “F.” This amino acid swap in V617F causes a malfunction.
+“It’s like turning the switch on for longer than normal,” Harrison said. “As a result, the bone marrow produces too many abnormal blood cells.”
+Imagine Lucille Ball wrapping chocolates in the famous “I Love Lucy” episode. At the assembly line’s normal pace, she wraps the chocolates with ease. But when they start coming faster, she struggles to keep up.
+Similarly, the mutation sends blood cells at a pace beyond what the body can handle. This may lead to scarring in the bone marrow, an excess of abnormal white blood cells and too few functioning red blood cells.
+By 2010, researchers had studied V617F enough to understand that the mutation was a driver myeloproliferative disorders in mouse models. That discovery led to further research in myelofibrosis and other myeloproliferative diseases.
+It’s like turning the switch on for longer than normal. As a result, the bone marrow produces too many abnormal blood cells.
+“
+It’s like turning the switch on for longer than normal. As a result, the bone marrow produces too many abnormal blood cells.
+”
+Running interference on JAK2
+Within two years of verifying V617F as a driver of myelofibrosis, researches applied a new therapeutic approach: JAK inhibitors, therapies designed to inhibit the activity of the JAK family of enzymes. “This was very gratifying for those of us in the field,” Harrison said. “The speed at which the discovery was translated was inspiring.”
+“There are many other mutations involved in these diseases,” Harrison said. “And JAK inhibitors may target the pathways where these mutations are active.
+Despite these great strides, questions about JAK2 remain. For instance, researchers do not know why JAK2 mutations can be seen in a wide variety of myeloproliferative diseases, all with different symptoms and outcomes for patients. Researchers are working to better understand their role with the goal of developing more refined JAK2 inhibitors and improving treatment options for patients with rare hematologic disorders.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Cancer Research
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Bristol Myers Squibb employees from 30 nations will cycle and celebrate 11 years of C2C4C >
+Revelations in oncology: Reflecting on the past and charting the future in cancer research >
+Our multiple myeloma story: Collaboration drives progress >
+
+January 22, 2024
+© 2024
+Bristol-Myers Squibb Company

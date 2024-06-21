@@ -1,0 +1,54 @@
+
+Science
+Protein homeostasis 101: A Q&A with Mark Rolfe
+Share Icon
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Facebook
+May 25, 2020
+Our stories
+/
+Science
+Mark Rolfe, PhD, senior vice president, Oncogenesis, is one of Bristol Myers Squibb's resident experts in protein homeostasis. But what exactly is it? Hear from Mark as he describes protein homeostasis and protein degradation, and how the company is leveraging this novel research to make a difference for patients.
+Q: What is protein homeostasis?
+A:  Protein homeostasis is a field of study dedicated to maintaining the equilibrium of proteins in the human body.
+Proteins are important, complex molecules, each with a specific function within your body – some are vital to tissue structure, others are concerned with organ function, and so on. Because they’re so important, the body has an intricate system that is constantly making and remaking proteins (creation), while also removing ones that have become inactive or mutated (degradation). When a cell is unable to degrade certain proteins, the proteins can accumulate, causing diseases like cancer.
+That’s where we come in — the goal of our work in protein degradation is to harness the body’s natural ability to target and remove specific proteins that are causing issues, to maintain homeostasis and keep patients healthy.
+Q: How does protein degradation differ from other therapeutic approaches?
+A:
+Protein degradation allows us to address certain disease-causing proteins that were previously considered “undruggable.”
+Traditionally, many approaches to treating disease are focused on pathway inhibition – preventing specific proteins from being expressed or synthesized. Many of these approaches work incredibly well, but then become stymied when the targeted protein or cell mutates, rendering inhibition less effective. In addition, currently only about 10 percent of all human proteins can be targeted this way, translating into a huge opportunity for protein degradation to potentially have an impact for patients who may not respond to available therapies.
+Q: Can you describe Bristol Myers Squibb’s research in protein degradation?
+A:
+Protein degradation is a core strength for Bristol Myers Squibb, which has launched two successful protein degrader agents. With several protein degraders, which have been developed based on decades of unique research and clinical experience, currently in clinical trials, Bristol Myers Squibb is building on its legacy and scientific expertise.
+Researchers at Bristol Myers Squibb are leveraging two different methods of protein degradation: molecular glues (CELMoD TM
+agents) and heterobifunctional agents (also called ligand-directed degraders, or LDDs).
+Q: What are CELMoD TM  agents?
+A:  CELMoD TM  (Cereblon E3 Ligase Modulation Drugs) agents promote protein degradation to remove disease-causing proteins from cells, eliminating their functioning altogether.
+CELMoD agents are small molecular weight compounds that alter the protein-binding properties of cereblon, which is part of an enzyme complex in the protein homeostasis cascade called an E3 ligase. CELMoD agents act as a sort of “molecular glue” – co-opting the function of the protein cereblon to recruit targeted proteins that would otherwise not be degraded and tagging them for the body’s natural removal system. These target proteins often play a role in disease pathophysiology, and early data show their elimination may have therapeutic benefit for some diseases.
+Q: What are ligand-directed degraders (LDDs)?
+A:  LDDs are three-part molecules (two ends joined by a linker) engineered to link target proteins with the E3 ligase and redirecting the protein degradation machinery to degrade the target proteins in a manner similar to CELMoD agents.
+Q: How is the field evolving over time?
+A:  Today’s pipeline is directly built on our deep understanding of earlier discoveries in the protein degradation space.
+As a company we have several protein degraders being evaluated across a handful of disease areas, as well as two approved immunomodulatory imide drugs (IMiD® agents), a subset of CELMoD agents.
+IMiD agents modulate the immune system and other biological targets through multiple mechanisms of action and have made a significant impact on the treatment landscape, and for patients. Based on our extensive experience with IMiD agents, we designed newer CELMoD agents to be much more targeted and have the potential to specifically help patients overcome resistance or treatment sensitivity. While IMiD agents were initially developed upon observation of their effects, these newer agents are being developed from discovery to clinic to achieve their pharmacologic effect with a specific mechanism of action and may potentially address a broader range of diseases, alone or in combination with other therapeutics.
+Today, we have the potential to target perhaps thousands of proteins that we couldn’t have imagined were possible to reach even five years ago. From here, we are working to identify which have therapeutic utility – figuring out the right proteins to target, when and where.
+Q: From a personal perspective, what impact do you hope your research may have on patients?
+A:  At Bristol Myers Squibb, we believe our novel research in protein degradation has the potential to make a lasting impact on patients in need.
+With blood cancers specifically, there are so many patients who relapse and have a very short window of time left. If you look at a disease like acute myeloid leukemia (AML) – we're constantly working to continue fighting for these patients, to continue improving and developing novel treatment options.
+The potential here goes beyond blood cancer, too – hematology is the first area where we saw the benefit for these therapies, but we are beginning to see utility in other diseases as well, including patients with solid tumors and immune-mediated diseases like lupus.
+It’s such an incredible time to be in drug discovery, and the thought of what this research could do for patients around the world is truly inspiring. I’m honored to be a part of it.
+Subscribe to Our stories alerts
+Beyond just relevant information about Bristol Myers Squibb's therapeutic areas and innovation, Our stories offer a window into the work our employees do every day for patients.
+Subscribe
+Cancer Research
+About Bristol Myers Squibb
+Bristol Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.
+Join our team
+Learn more about Mark Rolfe and his work at Bristol Myers Squibb >
+Protein Homeostasis: A Balancing Act >
+Protein Degradation: Recycling in Action >
+
+January 22, 2024
+© 2024
+Bristol-Myers Squibb Company

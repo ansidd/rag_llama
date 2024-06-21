@@ -1,0 +1,36 @@
+
+Our stories
+/
+Science
+Lymphoma
+What’s in Store for CAR T-Cell Therapy in Relapsed/Refractory Lymphoma?
+Clinical trial results are encouraging, but many questions remain.
+December 05, 2019
+Patients with relapsed/refractory non-Hodgkin’s lymphoma (NHL) often face a poor prognosis. For instance, a systematic international literature review from 2000-2016 found only 27 percent of patients with diffuse large B-cell lymphoma (DLBCL) live five years or longer from the time of relapse after first-line therapy. But, encouraging results from trials of chimeric antigen receptor (CAR) T-cell therapy are giving patients a reason to be optimistic.
+“It’s certainly hopeful for patients with lymphoma who have relapsed,” said Nilanjan Ghosh, M.D., chief of the Lymphoma Division at the Levine Cancer Institute. “This is an area of unmet need and CAR T-cell therapy is certainly a very promising approach in this field.”
+So far, long-term follow-up data from trials of CAR T-cell therapies have been limited given the novelty of this treatment approach.
+Who Benefits from CAR T-Cell Therapy?
+In one recent study of a CAR T-cell therapy in 101 patients with relapsed/refractory large B-cell lymphomas, including DLBCL, primary mediastinal B-cell lymphoma and transformed follicular lymphoma, some patients remained in remission one year after treatment.
+“That is pretty encouraging, especially considering that these patients have relapsed after or are refractory to chemotherapy,” Ghosh said.
+Researchers don’t yet clearly understand exactly why certain patients respond and stay in remission for a period of time, and why others don’t and eventually relapse.
+One reason may be the complex process of creating and administering the treatment. CAR T-cell therapy involves harvesting a patient’s T-cells, genetically engineering them to express receptors that recognize and attack tumor cells (as well as certain normal cells that exhibit the targeted antigen) and then transferring them back into the patient. So if a patient’s T-cells aren’t functioning properly, that could subvert the treatment.
+This is entirely possible in patients with cancer; T-cells play a central role in fighting cancer, so the very existence of cancer cells suggests something is wrong—either the patient’s T-cells are not doing their job effectively or the cancer has found a way to undermine their process.
+Can CAR T-Cell Therapy Be Used Sooner?
+CAR T-cell therapies are currently indicated for patients with specific subtypes of lymphoma who have progressed after two or more prior treatments, but Ghosh believes that they could potentially be helpful after just one failure. Several CAR T-cell therapy trials are exploring this question, but more research is needed before we get to this stage.
+Still, some toxicities can be very serious and difficult for patients to endure. Cytokine release syndrome (CRS) is a serious set of side of effects and commonly occurs in patients within days. As a result, doctors must closely monitor patients for the signs and symptoms of CRS, which include fever, low blood pressure and difficulty breathing.
+In addition to CRS, patients can sometimes experience neurotoxicity – a set of symptoms can manifest as delirium, encephalopathy or lethargy. Since it occurs during or more often after CRS, neurotoxicity is treated as an entirely separate set of side effects. It is important to recognize these toxicities early and intervene as per standard guidelines since the majority of these toxicities are reversible.
+But researchers are working to understand whether it is possible to limit the risk and severity of side effects. Finding a way to help reduce CRS and other toxicities could help strengthen the case for moving CAR T-cell therapies into earlier lines, according to Ghosh.
+“
+It’s an exciting time in the field. Over the next few years, we may be treating lymphoma differently.
+”
+Two CAR T-cell therapies that have been approved are being used to treat aggressive B-cell lymphomas in the relapsed/refractory setting. These therapies target B cells—both healthy and cancerous—that express a molecule called CD19. Since CD19 is also found at high levels in patients with B cell acute lymphoblastic leukemia (B-ALL), chronic lymphocytic leukemia (CLL) and other subtypes of NHL, targeting it may be helpful for these diseases as well.
+“CAR T-cell therapy is continuing to be explored for many different subtypes of NHL,” Ghosh said. “It’s an exciting time in the field. Over the next few years, we may be treating lymphoma completely differently.”
+related articles
+Igniting the Tumor Microenvironment to Fight Cancer >
+The many faces of lymphoma >
+Do lymphoma subtypes make a difference in treatment decisions? >
+The goal to treat lymphoma without chemotherapy >
+
+February 24, 2021
+© 2024
+Bristol-Myers Squibb Company

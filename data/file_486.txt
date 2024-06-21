@@ -1,0 +1,66 @@
+
+Science
+Science Firsthand: The pathway to drug discovery
+August 10, 2023
+Science Firsthand is a new storytelling platform from Bristol Myers Squibb that celebrates the countless moments along the path from drug discovery through development – unique moments that have the   potential to lead to major scientific breakthroughs that ultimately transform the lives of patients. The first episode focuses on the company’s storied history in protein degradation, shining a light on the moment that our team opened the doors of possibility to intentionally designed protein degraders.
+Click here to read transcript
+Mark Rolfe [00:00:00]:  The discovery moment is actually quite hard to describe. It's a culmination of hope, of hard work, of complex teamwork. And the moment when you realize the potential of a compound …. It's those moments that keep you keep coming back to work.
+M. Rolfe [00:00:31]:  The scientific breakthroughs behind protein degradation were completely unexpected.
+Neil Bence [00:00:36]:  The story really began two decades ago when BMS was one of the first companies to begin the study of immunomodulatory drugs in blood cancers, such as multiple myeloma, and they've had a significant impact in both the overall survival as well as the quality of life for patients. And so, they become the standard of care and continue to have a profound impact for patients’ lives.
+N. Bence [00:01:01]:  At the time, we knew that they had these sort of immunomodulatory effects, but we had very little insight into exactly how these molecules were working. They were delivering on benefit to patients. But really the details, the exact molecular mechanism of how they were working was a mystery for some time.
+M. Rolfe [00:01:25]:  Back in 2010, scientists in Japan discovered that some of these molecules, the IMiDs, were binding to a component in the cells’ protein recycling system and protein degradation system. The specific protein is called cereblon. It's a very important component of the cell's protein degradation system. Every cell in our body has the pathways to synthesize proteins, to make proteins, and to degrade proteins in order to keep the balance of protein levels intact. In the field, we call that protein homeostasis. The balance of protein levels. It was an absolute shock. The discovery from the group in Japan.
+M. Rolfe [00:02:12]:  Many groups had been trying to understand the mechanism of action of the IMiD compounds and trying to discover the molecular target, the protein that IMiDs bound to. The fact that the group in Japan discovered the binding partner to be cereblon was a huge surprise.
+N. Bence [00:02:35]:  Now, the story got really interesting because, around 2014, a number of really important publications came out from Harvard scientists, internal research at BMS and also our Japanese colleagues, in which we began to understand that not only were these compounds binding to cereblon, but in fact they were actual molecular glues.
+N. Bence [00:03:02]:  It was a light bulb moment. We suddenly went from not knowing why these compounds worked to now understanding that they work through this incredibly intricate mechanism where we were recruiting disease-causing proteins to the cereblon ubiquitin ligase and inducing their protein turnover and their destruction. The impact of understanding how the IMiD compound works… it gave rise to a whole new field of targeted protein degradation. And really, there was an early understanding that targeted protein degradation, as represented by the IMiD compounds, might in fact represent essentially the tip of the iceberg for what that new modality could bring to patients.
+N. Bence [00:03:49]:  At the time when you see like just an incredible, beautiful piece of scientific research, drug discovery and clinical development, it's something that is quite awe-inspiring. As we begin As we begin to understand what are sort of the rules of the road for targeted protein degradation… it allows you to begin to think about the medical problem you want to solve, the disease causing protein that's affiliated with it, and now perhaps intentionally design a molecule with the chemical structure required to create that completely novel molecular glue to recruit that disease-causing protein.
+M. Rolfe [00:04:28]: We now have several investigational protein degraders in clinical trials. We take two approaches towards protein degradation. Next generation of compounds are called cereblon E3 ligase modulators. These act as molecular glues much like the IMiD compounds … The second approach that we take to protein degradation is to make a three-part molecule called a ligand-directed degrader. The three parts of this molecule are a binder to cereblon, so much like an IMiD compound, a linker, and then a third component that binds to an important therapeutic target.
+N. Bence [00:05:14]: We really have the privilege of being able to build on many decades now of not just scientific insight into how these molecules work, but we also importantly understand what it takes to take those nascent molecules and turn them into medicines.
+N. Bence [00:05:31]: BMS really has been expanding in a number of important areas to deliver on the promise of targeted protein degradation. New modalities do not come along very often. And so when they do, there is great promise, and there's also a phase in which the field is going through this incredible sort of rapid and creative expansion. And so, there's just tremendous potential right now. And it's one of the main motivations for our BMS scientists to begin to push the limits and to rapidly iterate and to drive forth novel medications for patients who need them most.
+Our stories
+Science
+Science Firsthand: Pioneering Path in Protein Degradation
+Share Icon
+Facebook Icon
+Twitter Icon
+Linkedin Icon
+Email Icon
+The discovery moment – a culmination of hope, of hard work, of complex teamwork – is quite hard to describe, says Bristol Myers Squibb’s Mark Rolfe, PhD, senior vice president, Oncogenesis Thematic Research Center. But the moment that you realize the potential of a compound? It’s those moments that keep our R&D team coming back to work.
+Our unique approach to drug discovery and development
+This team takes a unique approach to the path of drug development — scientists pursue broad research approaches, where they glean insights on disease targets and their potential effect on human biology and implement those learnings into drug discovery research in the lab, efficiently. The basis for this approach lies in Bristol Myers Squibb’s long-standing expertise in the intricacies of causal human biology, the foundation of our nuanced approach to precision R&D — selecting the right pathways and targets for specific patient populations, matching modalities to mechanisms of disease, and determining novel combinations and sequences to deliver maximum therapeutic benefit. Decades of success and expertise at the disease and molecular levels has given Bristol Myers Squibb unmatched clinical data to determine scientific paths forward.
+“
+Our ambition is to accelerate our pipeline to deliver transformational medicines to patients around the globe. Cutting-edge computational tools and quantitative translational models catalyze our ability to leverage our unmatched understanding of causal human biology to accelerate our relentless pursuit to provide the best outcomes possible for patients today and in the future.
+Robert Plenge, MD, PhD, executive vice president, head of Research
+”
+Bristol Myers Squibb’s legacy and scientific expertise in
+protein degradation
+is a prime case study of how the company has created an R&D environment that channels inspiration into exploration where, driven by curiosity, multi-disciplinary R&D teams seek to answer some of science’s toughest questions. Protein degradation is a core approach for the company, through which researchers can harness the body’s natural ability to target and
+remove unnecessary or harmful disease-causing proteins
+to maintain equilibrium.
+Research teams — including those focused on protein degradation — are driven by scientists and experts who are living nearly a decade in the future and start each day wondering: What does the future look like for patients? What will the treatment landscape look like? How will the standard of care have changed from now to then? Bringing together the brightest minds in discovery and development, the R&D team puts these questions into practice at thematic research centers (TRCs) strategically placed in the
+liveliest life science innovation hubs
+. Within these TRCs, Bristol Myers Squibb has a world-class biology, computational, and translational team, giving scientists in-house capabilities to build expertise from some of the largest data sets in the world. These learnings can be shared with academic institutions or with partner organizations to better inform research and potential clinical trials.
+“
+What’s unique about our structure is that we bring together subject matter experts to weigh in on decisions about potential treatments — everyone from the biologists and chemists to the translational medicine scientists, clinical teams, regulatory team, along with insights from external leaders in the field. Our cross-functional team structure allows us to collaborate on ideas to harness our potential.
+Melissa Harris, PharmD, senior vice president, Regional Clinical Operations (RCO)
+”
+The drug development path doesn’t stop once medicines make their way bedside — teams at Bristol Myers Squibb are focused on a continual information circuit back into the lab. Insights across the drug discovery and development continuum are shared with internal experts, who analyze these data and bring insights back to the biologists and chemists in the lab to improve research methods and future hypotheses.
+Pioneering our path forward in protein degradation
+Bristol Myers Squibb remains the only company that has successfully developed and commercialized protein degrader agents.
+The company’s long history in protein degradation began more than 20 years ago, with Celgene’s (now BMS’) development of the first IMiD® compounds to treat blood cancers. Researchers had been looking into these drugs for decades, but no one had any idea how and why they worked — the evidence was in the clinical outcomes. In the 2010s, scientists made several discoveries that offered stunning clarity and advanced the whole field forward. Today, with  targeted protein degradation , researchers are harnessing the cell’s own machinery, for example ubiquitin ligase (E3) enzymes, to degrade disease-causing proteins that were previously considered “undruggable.”
+Researchers are now pursuing multiple paths to the discovery and development of protein degraders, providing more opportunities for breakthroughs and therapeutic strategies. We are leveraging  two different methods of protein degradation : molecular glues (CELMoD™ agents) and heterobifunctional agents (also called ligand-directed degraders, or LDDs). These novel degraders are being designed with precision, agility and intention to target highly biologically validated and novel disease targets.
+“
+We really have the privilege of being able to build on many decades now of not just scientific insight into how these molecules work, but we also importantly understand what it takes to take those nascent molecules and turn them into medicines.
+Neil Bence, PhD, vice president, head of Oncology Discovery, San Diego site head
+”
+Advancing toward the future
+Protein degraders are just one example of how endless curiosity can make an impact for patients. Our scientists work tirelessly every day aiming to uncover insights that may lead to better treatments for patients in need. As the landscape evolves, so do they — utilizing novel technologies that will help shape the future of drug discovery and development, including AI and machine learning techniques, in everything from analyzing data to completing components of clinical and regulatory documents, all of which will help get medicines to patients in need faster.
+While these technologies have accelerated timelines and allowed research and development to become more efficient, it's important to recall the storied history of discovery, and to seek inspiration and deeper understanding from these breakthroughs to propel science and medicine into the future.
+Protein degradation and resources page >
+Related content
+Using a multimodal toolbox to advance the next generation of cancer treatment >
+Advancing women-led R&D to accelerate innovation and inspire new pathways of learning >
+Pursuing ‘big dreams’ in STEM >
+
+November 03, 2023
+© 2024
+Bristol-Myers Squibb Company
