@@ -1,7 +1,7 @@
 ## Retrieval Augmented Generation
 
-RAG is generation of text by LLMs augmeneted by additional context retrieved from knowledge database. In this project, a Question Answer system is developed to answer any questions ,
-pertaining to the company Bristol Myers Suibb, to which answers can be found on their website. 
+RAG is generation of text by LLMs augmeneted by additional context retrieved from knowledge database. In this project, a Question Answer system is developed to answer any questions
+pertaining to the company Bristol Myers Suibb. The questions are answered form whatever information can be found on their website. 
 
 
 ### Live App
